@@ -1,0 +1,227 @@
+case_submitter_id	age_at_index	gender	race
+TCGA-KL-8346	62	male	white
+TCGA-KL-8346	62	male	white
+TCGA-KN-8433	46	female	white
+TCGA-KN-8433	46	female	white
+TCGA-KM-A7QE	59	female	white
+TCGA-KM-A7QE	59	female	white
+TCGA-KM-A7Q9	55	male	white
+TCGA-KM-A7Q9	55	male	white
+TCGA-KM-8639	67	male	white
+TCGA-KM-8639	67	male	white
+TCGA-KN-8435	59	male	white
+TCGA-KN-8435	59	male	white
+TCGA-KN-8425	53	male	white
+TCGA-KN-8425	53	male	white
+TCGA-KO-8415	44	female	white
+TCGA-KO-8415	44	female	white
+TCGA-KM-8477	56	male	white
+TCGA-KM-8477	56	male	white
+TCGA-KL-8342	45	female	white
+TCGA-KL-8342	45	female	white
+TCGA-KO-8411	58	male	white
+TCGA-KO-8411	58	male	white
+TCGA-UW-A7GR	44	female	white
+TCGA-UW-A7GR	44	female	white
+TCGA-KL-8337	26	male	black or african american
+TCGA-KL-8337	26	male	black or african american
+TCGA-KM-8441	61	female	white
+TCGA-KM-8441	61	female	white
+TCGA-UW-A72J	42	female	black or african american
+TCGA-UW-A72J	42	female	black or african american
+TCGA-KO-8414	50	female	white
+TCGA-KO-8414	50	female	white
+TCGA-KN-8432	86	female	white
+TCGA-KN-8432	86	female	white
+TCGA-NP-A5B3	74	male	black or african american
+TCGA-NP-A5B3	74	male	black or african american
+TCGA-KL-8331	48	female	white
+TCGA-KL-8331	48	female	white
+TCGA-KL-8336	51	female	white
+TCGA-KL-8336	51	female	white
+TCGA-NP-A5H1	66	female	white
+TCGA-NP-A5H1	66	female	white
+TCGA-KN-8418	41	female	white
+TCGA-KN-8418	41	female	white
+TCGA-UW-A7GK	74	female	white
+TCGA-UW-A7GK	74	female	white
+TCGA-KO-8410	74	female	white
+TCGA-KO-8410	74	female	white
+TCGA-KL-8327	46	female	white
+TCGA-KL-8327	46	female	white
+TCGA-KL-8333	69	male	white
+TCGA-KL-8333	69	male	white
+TCGA-KL-8326	69	male	white
+TCGA-KL-8326	69	male	white
+TCGA-KN-8431	35	female	not reported
+TCGA-KN-8431	35	female	not reported
+TCGA-KL-8324	67	female	white
+TCGA-KL-8324	67	female	white
+TCGA-KM-A7QK	53	male	white
+TCGA-KM-A7QK	53	male	white
+TCGA-KO-8409	69	male	white
+TCGA-KO-8409	69	male	white
+TCGA-KO-8417	30	female	white
+TCGA-KO-8417	30	female	white
+TCGA-KM-A7QC	33	female	white
+TCGA-KM-A7QC	33	female	white
+TCGA-UW-A7GI	58	male	white
+TCGA-UW-A7GI	58	male	white
+TCGA-KO-8416	41	male	white
+TCGA-KO-8416	41	male	white
+TCGA-KL-8330	44	female	black or african american
+TCGA-KL-8330	44	female	black or african american
+TCGA-KO-8404	78	male	white
+TCGA-KO-8404	78	male	white
+TCGA-UW-A72M	44	male	white
+TCGA-UW-A72M	44	male	white
+TCGA-KO-8407	42	male	white
+TCGA-KO-8407	42	male	white
+TCGA-UW-A72P	61	female	white
+TCGA-UW-A72P	61	female	white
+TCGA-KM-A7QL	36	female	white
+TCGA-KM-A7QL	36	female	white
+TCGA-KN-8423	44	male	white
+TCGA-KN-8423	44	male	white
+TCGA-KM-8438	45	female	white
+TCGA-KM-8438	45	female	white
+TCGA-KM-A7QJ	67	male	asian
+TCGA-KM-A7QJ	67	male	asian
+TCGA-KO-8413	46	male	white
+TCGA-KO-8413	46	male	white
+TCGA-KM-8443	57	male	white
+TCGA-KM-8443	57	male	white
+TCGA-KN-8421	47	female	white
+TCGA-KN-8421	47	female	white
+TCGA-KL-8340	34	male	white
+TCGA-KL-8340	34	male	white
+TCGA-UW-A72O	38	male	white
+TCGA-UW-A72O	38	male	white
+TCGA-KN-8429	38	female	white
+TCGA-KN-8429	38	female	white
+TCGA-KL-8338	51	male	white
+TCGA-KL-8338	51	male	white
+TCGA-NP-A5H7	40	female	white
+TCGA-NP-A5H7	40	female	white
+TCGA-KL-8332	55	male	white
+TCGA-KL-8332	55	male	white
+TCGA-UW-A72H	48	male	white
+TCGA-UW-A72H	48	male	white
+TCGA-KM-8442	38	male	not reported
+TCGA-KM-8442	38	male	not reported
+TCGA-KL-8328	60	male	white
+TCGA-KL-8328	60	male	white
+TCGA-KL-8345	75	male	white
+TCGA-KL-8345	75	male	white
+TCGA-KN-8428	71	male	white
+TCGA-KN-8428	71	male	white
+TCGA-KN-8422	28	female	white
+TCGA-KN-8422	28	female	white
+TCGA-KM-8476	47	male	white
+TCGA-KM-8476	47	male	white
+TCGA-UW-A72S	43	female	white
+TCGA-UW-A72S	43	female	white
+TCGA-UW-A72I	50	female	white
+TCGA-UW-A72I	50	female	white
+TCGA-KL-8325	56	female	white
+TCGA-KL-8325	56	female	white
+TCGA-KM-A7Q7	45	female	black or african american
+TCGA-KM-A7Q7	45	female	black or african american
+TCGA-KO-8403	49	male	white
+TCGA-KO-8403	49	male	white
+TCGA-KL-8341	41	male	asian
+TCGA-KL-8341	41	male	asian
+TCGA-KM-8439	30	male	white
+TCGA-KM-8439	30	male	white
+TCGA-UW-A72R	29	female	black or african american
+TCGA-UW-A72R	29	female	black or african american
+TCGA-KL-8323	57	female	white
+TCGA-KL-8323	57	female	white
+TCGA-UW-A72N	45	male	white
+TCGA-UW-A72N	45	male	white
+TCGA-KM-8440	37	male	black or african american
+TCGA-KM-8440	37	male	black or african american
+TCGA-KM-A7QH	39	male	white
+TCGA-KM-A7QH	39	male	white
+TCGA-KM-A7QG	55	female	white
+TCGA-KM-A7QG	55	female	white
+TCGA-KN-8424	42	female	white
+TCGA-KN-8424	42	female	white
+TCGA-KM-A7Q8	45	male	white
+TCGA-KM-A7Q8	45	male	white
+TCGA-NP-A5H6	49	male	white
+TCGA-NP-A5H6	49	male	white
+TCGA-KM-A7QA	18	male	white
+TCGA-KM-A7QA	18	male	white
+TCGA-KN-8427	54	male	white
+TCGA-KN-8427	54	male	white
+TCGA-UW-A7GN	31	male	white
+TCGA-UW-A7GN	31	male	white
+TCGA-KO-8406	17	female	white
+TCGA-KO-8406	17	female	white
+TCGA-KL-8334	37	female	white
+TCGA-KL-8334	37	female	white
+TCGA-KN-8430	75	male	white
+TCGA-KN-8430	75	male	white
+TCGA-KL-8344	51	male	white
+TCGA-KL-8344	51	male	white
+TCGA-KN-8426	50	male	white
+TCGA-KN-8426	50	male	white
+TCGA-KL-8343	72	male	white
+TCGA-KL-8343	72	male	white
+TCGA-UW-A72K	52	male	white
+TCGA-UW-A72K	52	male	white
+TCGA-NP-A5H5	79	female	white
+TCGA-NP-A5H5	79	female	white
+TCGA-KL-8335	67	male	white
+TCGA-KL-8335	67	male	white
+TCGA-KM-A7Q6	36	male	white
+TCGA-KM-A7Q6	36	male	white
+TCGA-UW-A7GG	44	female	white
+TCGA-UW-A7GG	44	female	white
+TCGA-NP-A5GZ	50	female	white
+TCGA-NP-A5GZ	50	female	white
+TCGA-UW-A72L	51	female	white
+TCGA-UW-A72L	51	female	white
+TCGA-NP-A5GY	75	female	white
+TCGA-NP-A5GY	75	female	white
+TCGA-UW-A7GX	45	male	black or african american
+TCGA-UW-A7GX	45	male	black or african american
+TCGA-KM-A7QI	50	female	white
+TCGA-KM-A7QI	50	female	white
+TCGA-UW-A72T	57	male	white
+TCGA-UW-A72T	57	male	white
+TCGA-KO-8405	29	male	white
+TCGA-KO-8405	29	male	white
+TCGA-KL-8329	57	female	asian
+TCGA-KL-8329	57	female	asian
+TCGA-KN-8419	43	male	black or african american
+TCGA-KN-8419	43	male	black or african american
+TCGA-KO-8408	47	male	white
+TCGA-KO-8408	47	male	white
+TCGA-UW-A7GP	40	male	white
+TCGA-UW-A7GP	40	male	white
+TCGA-KM-A7QD	57	female	asian
+TCGA-KM-A7QD	57	female	asian
+TCGA-UW-A7GY	57	female	white
+TCGA-UW-A7GY	57	female	white
+TCGA-KL-8339	67	male	white
+TCGA-KL-8339	67	male	white
+TCGA-KN-8434	65	female	white
+TCGA-KN-8434	65	female	white
+TCGA-UW-A7GJ	52	female	black or african american
+TCGA-UW-A7GJ	52	female	black or african american
+TCGA-UW-A72Q	56	male	white
+TCGA-UW-A72Q	56	male	white
+TCGA-KM-A7QB	47	male	black or african american
+TCGA-KM-A7QB	47	male	black or african american
+TCGA-KN-8436	62	male	white
+TCGA-KN-8436	62	male	white
+TCGA-KN-8437	42	female	white
+TCGA-KN-8437	42	female	white
+TCGA-UW-A7GU	75	male	black or african american
+TCGA-UW-A7GU	75	male	black or african american
+TCGA-UW-A7GL	47	male	white
+TCGA-UW-A7GL	47	male	white
+TCGA-UW-A7GC	75	female	white
+TCGA-UW-A7GC	75	female	white

@@ -1,0 +1,371 @@
+case_submitter_id	age_at_index	gender	race
+TCGA-L5-A8NN	81	male	white
+TCGA-L5-A8NN	81	male	white
+TCGA-JY-A6FB	77	male	white
+TCGA-JY-A6FB	77	male	white
+TCGA-R6-A6Y2	71	male	white
+TCGA-R6-A6Y2	71	male	white
+TCGA-LN-A4A6	65	male	asian
+TCGA-LN-A4A6	65	male	asian
+TCGA-Z6-A8JD	53	male	white
+TCGA-Z6-A8JD	53	male	white
+TCGA-VR-A8ER	54	male	not reported
+TCGA-VR-A8ER	54	male	not reported
+TCGA-JY-A93C	47	male	asian
+TCGA-JY-A93C	47	male	asian
+TCGA-IG-A7DP	50	female	white
+TCGA-IG-A7DP	50	female	white
+TCGA-IG-A4QS	71	male	white
+TCGA-IG-A4QS	71	male	white
+TCGA-VR-AA7D	58	male	not reported
+TCGA-VR-AA7D	58	male	not reported
+TCGA-LN-A4A2	57	male	asian
+TCGA-LN-A4A2	57	male	asian
+TCGA-2H-A9GF	67	male	not reported
+TCGA-2H-A9GF	67	male	not reported
+TCGA-VR-AA4D	53	male	white
+TCGA-VR-AA4D	53	male	white
+TCGA-L5-A8NM	84	female	white
+TCGA-L5-A8NM	84	female	white
+TCGA-XP-A8T7	63	female	white
+TCGA-XP-A8T7	63	female	white
+TCGA-V5-A7RE	45	male	white
+TCGA-V5-A7RE	45	male	white
+TCGA-LN-A49W	73	male	asian
+TCGA-LN-A49W	73	male	asian
+TCGA-LN-A7HZ	49	male	asian
+TCGA-LN-A7HZ	49	male	asian
+TCGA-LN-A5U5	57	male	asian
+TCGA-LN-A5U5	57	male	asian
+TCGA-LN-A49Y	77	male	asian
+TCGA-LN-A49Y	77	male	asian
+TCGA-L5-A8NG	77	male	white
+TCGA-L5-A8NG	77	male	white
+TCGA-VR-A8EO	49	male	white
+TCGA-VR-A8EO	49	male	white
+TCGA-L5-A8NQ	71	male	white
+TCGA-L5-A8NQ	71	male	white
+TCGA-IG-A5B8	72	male	white
+TCGA-IG-A5B8	72	male	white
+TCGA-LN-A5U6	54	male	asian
+TCGA-LN-A5U6	54	male	asian
+TCGA-R6-A6DN	58	male	white
+TCGA-R6-A6DN	58	male	white
+TCGA-IG-A4QT	56	male	white
+TCGA-IG-A4QT	56	male	white
+TCGA-LN-A49L	44	male	asian
+TCGA-LN-A49L	44	male	asian
+TCGA-JY-A93D	51	male	white
+TCGA-JY-A93D	51	male	white
+TCGA-L5-A4OX	60	male	white
+TCGA-L5-A4OX	60	male	white
+TCGA-Z6-AAPN	57	male	white
+TCGA-Z6-AAPN	57	male	white
+TCGA-2H-A9GR	80	male	not reported
+TCGA-2H-A9GR	80	male	not reported
+TCGA-LN-A7HW	59	male	asian
+TCGA-LN-A7HW	59	male	asian
+TCGA-M9-A5M8	58	male	not reported
+TCGA-M9-A5M8	58	male	not reported
+TCGA-LN-A49O	47	male	asian
+TCGA-LN-A49O	47	male	asian
+TCGA-V5-AASX	74	male	white
+TCGA-V5-AASX	74	male	white
+TCGA-IG-A3YA	53	male	white
+TCGA-IG-A3YA	53	male	white
+TCGA-IG-A6QS	54	male	white
+TCGA-IG-A6QS	54	male	white
+TCGA-L5-A88Y	76	male	white
+TCGA-L5-A88Y	76	male	white
+TCGA-LN-A9FP	60	female	asian
+TCGA-LN-A9FP	60	female	asian
+TCGA-V5-AASV	67	male	black or african american
+TCGA-V5-AASV	67	male	black or african american
+TCGA-R6-A8W5	60	male	white
+TCGA-R6-A8W5	60	male	white
+TCGA-2H-A9GK	43	male	not reported
+TCGA-2H-A9GK	43	male	not reported
+TCGA-L5-A4OF	63	male	white
+TCGA-L5-A4OF	63	male	white
+TCGA-L5-A88W	67	male	white
+TCGA-L5-A88W	67	male	white
+TCGA-L5-A8NI	79	male	white
+TCGA-L5-A8NI	79	male	white
+TCGA-JY-A93E	61	male	white
+TCGA-JY-A93E	61	male	white
+TCGA-LN-A4MQ	46	male	asian
+TCGA-LN-A4MQ	46	male	asian
+TCGA-LN-A4A8	52	male	asian
+TCGA-LN-A4A8	52	male	asian
+TCGA-IG-A51D	63	male	white
+TCGA-IG-A51D	63	male	white
+TCGA-Q9-A6FU	57	female	white
+TCGA-Q9-A6FU	57	female	white
+TCGA-JY-A6FE	49	male	white
+TCGA-JY-A6FE	49	male	white
+TCGA-LN-A5U7	46	male	asian
+TCGA-LN-A5U7	46	male	asian
+TCGA-LN-A8I0	52	male	asian
+TCGA-LN-A8I0	52	male	asian
+TCGA-R6-A6DQ	74	female	white
+TCGA-R6-A6DQ	74	female	white
+TCGA-LN-A8I1	67	female	asian
+TCGA-LN-A8I1	67	female	asian
+TCGA-L5-A4OW	56	female	not reported
+TCGA-L5-A4OW	56	female	not reported
+TCGA-IG-A3QL	54	male	white
+TCGA-IG-A3QL	54	male	white
+TCGA-L5-A8NJ	77	male	white
+TCGA-L5-A8NJ	77	male	white
+TCGA-L5-A4OI	79	male	white
+TCGA-L5-A4OI	79	male	white
+TCGA-S8-A6BV	76	male	white
+TCGA-S8-A6BV	76	male	white
+TCGA-IG-A3YC	62	male	white
+TCGA-IG-A3YC	62	male	white
+TCGA-Q9-A6FW	61	male	white
+TCGA-Q9-A6FW	61	male	white
+TCGA-L5-A8NF	57	male	white
+TCGA-L5-A8NF	57	male	white
+TCGA-2H-A9GL	74	male	not reported
+TCGA-2H-A9GL	74	male	not reported
+TCGA-LN-A49K	66	male	asian
+TCGA-LN-A49K	66	male	asian
+TCGA-VR-AA7B	65	female	white
+TCGA-VR-AA7B	65	female	white
+TCGA-R6-A6L6	68	male	white
+TCGA-R6-A6L6	68	male	white
+TCGA-IG-A5S3	69	female	white
+TCGA-IG-A5S3	69	female	white
+TCGA-LN-A9FQ	62	male	asian
+TCGA-LN-A9FQ	62	male	asian
+TCGA-JY-A6FD	51	female	asian
+TCGA-JY-A6FD	51	female	asian
+TCGA-L5-A43H	75	male	white
+TCGA-L5-A43H	75	male	white
+TCGA-2H-A9GN	70	male	not reported
+TCGA-2H-A9GN	70	male	not reported
+TCGA-L5-A4OR	83	male	white
+TCGA-L5-A4OR	83	male	white
+TCGA-L5-A4OE	81	male	white
+TCGA-L5-A4OE	81	male	white
+TCGA-LN-A49V	49	male	asian
+TCGA-LN-A49V	49	male	asian
+TCGA-VR-A8EX	63	male	not reported
+TCGA-VR-A8EX	63	male	not reported
+TCGA-JY-A939	77	male	white
+TCGA-JY-A939	77	male	white
+TCGA-Z6-A8JE	57	male	white
+TCGA-Z6-A8JE	57	male	white
+TCGA-L5-A4OM	54	female	white
+TCGA-L5-A4OM	54	female	white
+TCGA-Z6-A9VB	53	male	white
+TCGA-Z6-A9VB	53	male	white
+TCGA-L5-A43J	90	male	white
+TCGA-L5-A43J	90	male	white
+TCGA-L5-A43I	77	male	white
+TCGA-L5-A43I	77	male	white
+TCGA-L5-A88S	84	male	white
+TCGA-L5-A88S	84	male	white
+TCGA-VR-A8Q7	60	male	white
+TCGA-VR-A8Q7	60	male	white
+TCGA-L5-A43M	84	female	not reported
+TCGA-L5-A43M	84	female	not reported
+TCGA-LN-A7HV	58	male	asian
+TCGA-LN-A7HV	58	male	asian
+TCGA-L5-A8NS	76	male	white
+TCGA-L5-A8NS	76	male	white
+TCGA-JY-A6FA	51	male	asian
+TCGA-JY-A6FA	51	male	asian
+TCGA-LN-A4A3	61	male	asian
+TCGA-LN-A4A3	61	male	asian
+TCGA-LN-A4A1	60	male	asian
+TCGA-LN-A4A1	60	male	asian
+TCGA-R6-A6XG	64	male	white
+TCGA-R6-A6XG	64	male	white
+TCGA-L5-A4OH	71	male	white
+TCGA-L5-A4OH	71	male	white
+TCGA-VR-A8EQ	73	male	white
+TCGA-VR-A8EQ	73	male	white
+TCGA-IG-A3Y9	72	male	white
+TCGA-IG-A3Y9	72	male	white
+TCGA-LN-A49R	46	male	asian
+TCGA-LN-A49R	46	male	asian
+TCGA-L5-A88Z	70	female	white
+TCGA-L5-A88Z	70	female	white
+TCGA-LN-A4A5	49	male	asian
+TCGA-LN-A4A5	49	male	asian
+TCGA-L5-A8NK	84	female	white
+TCGA-L5-A8NK	84	female	white
+TCGA-JY-A6FG	50	male	white
+TCGA-JY-A6FG	50	male	white
+TCGA-L5-A4OO	75	male	white
+TCGA-L5-A4OO	75	male	white
+TCGA-L5-A4OQ	75	male	white
+TCGA-L5-A4OQ	75	male	white
+TCGA-L5-A8NH	54	male	white
+TCGA-L5-A8NH	54	male	white
+TCGA-IG-A625	60	male	asian
+TCGA-IG-A625	60	male	asian
+TCGA-IG-A97H	36	male	asian
+TCGA-IG-A97H	36	male	asian
+TCGA-2H-A9GH	44	male	not reported
+TCGA-2H-A9GH	44	male	not reported
+TCGA-R6-A8WG	60	male	white
+TCGA-R6-A8WG	60	male	white
+TCGA-IC-A6RE	59	male	white
+TCGA-IC-A6RE	59	male	white
+TCGA-2H-A9GM	53	male	not reported
+TCGA-2H-A9GM	53	male	not reported
+TCGA-IG-A4P3	48	male	white
+TCGA-IG-A4P3	48	male	white
+TCGA-S8-A6BW	51	male	white
+TCGA-S8-A6BW	51	male	white
+TCGA-L5-A8NT	69	male	white
+TCGA-L5-A8NT	69	male	white
+TCGA-L5-A8NE	77	male	white
+TCGA-L5-A8NE	77	male	white
+TCGA-L5-A88T	86	male	white
+TCGA-L5-A88T	86	male	white
+TCGA-L5-A43E	74	male	white
+TCGA-L5-A43E	74	male	white
+TCGA-2H-A9GG	66	male	not reported
+TCGA-2H-A9GG	66	male	not reported
+TCGA-L7-A56G	65	male	black or african american
+TCGA-L7-A56G	65	male	black or african american
+TCGA-VR-A8EW	57	male	asian
+TCGA-VR-A8EW	57	male	asian
+TCGA-R6-A6Y0	54	male	white
+TCGA-R6-A6Y0	54	male	white
+TCGA-LN-A7HY	50	male	asian
+TCGA-LN-A7HY	50	male	asian
+TCGA-IG-A97I	58	male	white
+TCGA-IG-A97I	58	male	white
+TCGA-IG-A3I8	51	female	white
+TCGA-IG-A3I8	51	female	white
+TCGA-R6-A6XQ	58	male	white
+TCGA-R6-A6XQ	58	male	white
+TCGA-LN-A7HX	72	male	asian
+TCGA-LN-A7HX	72	male	asian
+TCGA-XP-A8T8	49	male	black or african american
+TCGA-XP-A8T8	49	male	black or african american
+TCGA-R6-A6KZ	42	male	white
+TCGA-R6-A6KZ	42	male	white
+TCGA-JY-A6F8	56	male	white
+TCGA-JY-A6F8	56	male	white
+TCGA-RE-A7BO	72	female	white
+TCGA-RE-A7BO	72	female	white
+TCGA-LN-A49U	62	male	asian
+TCGA-LN-A49U	62	male	asian
+TCGA-L5-A4OT	77	male	white
+TCGA-L5-A4OT	77	male	white
+TCGA-L5-A4OP	67	female	white
+TCGA-L5-A4OP	67	female	white
+TCGA-JY-A938	75	male	white
+TCGA-JY-A938	75	male	white
+TCGA-R6-A8WC	56	male	white
+TCGA-R6-A8WC	56	male	white
+TCGA-L5-A8NL	56	male	white
+TCGA-L5-A8NL	56	male	white
+TCGA-IC-A6RF	69	female	white
+TCGA-IC-A6RF	69	female	white
+TCGA-IG-A50L	58	male	asian
+TCGA-IG-A50L	58	male	asian
+TCGA-IG-A3YB	61	male	white
+TCGA-IG-A3YB	61	male	white
+TCGA-IG-A8O2	62	male	asian
+TCGA-IG-A8O2	62	male	asian
+TCGA-VR-AA7I	70	male	white
+TCGA-VR-AA7I	70	male	white
+TCGA-JY-A93F	58	female	white
+TCGA-JY-A93F	58	female	white
+TCGA-L5-A43C	81	male	white
+TCGA-L5-A43C	81	male	white
+TCGA-V5-A7RC	55	male	black or african american
+TCGA-V5-A7RC	55	male	black or african american
+TCGA-V5-AASW	72	male	white
+TCGA-V5-AASW	72	male	white
+TCGA-LN-A49N	50	male	asian
+TCGA-LN-A49N	50	male	asian
+TCGA-L5-A4OU	81	male	white
+TCGA-L5-A4OU	81	male	white
+TCGA-LN-A49X	44	male	asian
+TCGA-LN-A49X	44	male	asian
+TCGA-LN-A49M	62	male	asian
+TCGA-LN-A49M	62	male	asian
+TCGA-VR-A8EU	51	male	white
+TCGA-VR-A8EU	51	male	white
+TCGA-LN-A49P	71	male	asian
+TCGA-LN-A49P	71	male	asian
+TCGA-LN-A8HZ	56	male	asian
+TCGA-LN-A8HZ	56	male	asian
+TCGA-JY-A6FH	53	male	white
+TCGA-JY-A6FH	53	male	white
+TCGA-VR-A8EY	44	female	white
+TCGA-VR-A8EY	44	female	white
+TCGA-L5-A88V	60	male	white
+TCGA-L5-A88V	60	male	white
+TCGA-L5-A8NV	75	male	white
+TCGA-L5-A8NV	75	male	white
+TCGA-LN-A4A9	58	male	asian
+TCGA-LN-A4A9	58	male	asian
+TCGA-2H-A9GO	58	male	not reported
+TCGA-2H-A9GO	58	male	not reported
+TCGA-L5-A4ON	65	male	white
+TCGA-L5-A4ON	65	male	white
+TCGA-LN-A9FO	42	male	asian
+TCGA-LN-A9FO	42	male	asian
+TCGA-X8-AAAR	69	male	white
+TCGA-X8-AAAR	69	male	white
+TCGA-L5-A4OJ	70	female	white
+TCGA-L5-A4OJ	70	female	white
+TCGA-LN-A4MR	57	male	asian
+TCGA-LN-A4MR	57	male	asian
+TCGA-R6-A8W8	72	male	white
+TCGA-R6-A8W8	72	male	white
+TCGA-V5-A7RB	59	male	not reported
+TCGA-V5-A7RB	59	male	not reported
+TCGA-2H-A9GI	68	male	not reported
+TCGA-2H-A9GI	68	male	not reported
+TCGA-L5-A8NU	84	male	white
+TCGA-L5-A8NU	84	male	white
+TCGA-LN-A9FR	70	male	asian
+TCGA-LN-A9FR	70	male	asian
+TCGA-VR-A8ET	64	male	white
+TCGA-VR-A8ET	64	male	white
+TCGA-R6-A6L4	27	male	white
+TCGA-R6-A6L4	27	male	white
+TCGA-L5-A8NW	55	male	white
+TCGA-L5-A8NW	55	male	white
+TCGA-L5-A4OS	86	female	white
+TCGA-L5-A4OS	86	female	white
+TCGA-VR-A8EP	51	male	white
+TCGA-VR-A8EP	51	male	white
+TCGA-L5-A8NR	81	female	not reported
+TCGA-L5-A8NR	81	female	not reported
+TCGA-L7-A6VZ	62	male	white
+TCGA-L7-A6VZ	62	male	white
+TCGA-VR-AA4G	51	female	white
+TCGA-VR-AA4G	51	female	white
+TCGA-LN-A4A4	36	male	asian
+TCGA-LN-A4A4	36	male	asian
+TCGA-LN-A49S	59	male	asian
+TCGA-LN-A49S	59	male	asian
+TCGA-L5-A4OG	79	female	white
+TCGA-L5-A4OG	79	female	white
+TCGA-2H-A9GJ	57	male	not reported
+TCGA-2H-A9GJ	57	male	not reported
+TCGA-KH-A6WC	82	male	white
+TCGA-KH-A6WC	82	male	white
+TCGA-2H-A9GQ	80	male	not reported
+TCGA-2H-A9GQ	80	male	not reported
+TCGA-L5-A891	51	male	white
+TCGA-L5-A891	51	male	white
+TCGA-XP-A8T6	54	male	black or african american
+TCGA-XP-A8T6	54	male	black or african american
+TCGA-L5-A893	71	female	white
+TCGA-L5-A893	71	female	white
+TCGA-VR-A8EZ	47	male	white
+TCGA-VR-A8EZ	47	male	white
+TCGA-ZR-A9CJ	65	male	white
+TCGA-ZR-A9CJ	65	male	white

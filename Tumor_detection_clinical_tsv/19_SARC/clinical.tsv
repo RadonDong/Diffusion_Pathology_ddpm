@@ -1,0 +1,523 @@
+case_submitter_id	age_at_index	gender	race
+TCGA-DX-AB35	65	male	white
+TCGA-DX-AB35	65	male	white
+TCGA-3B-A9HX	70	female	white
+TCGA-3B-A9HX	70	female	white
+TCGA-HS-A5NA	65	female	not reported
+TCGA-HS-A5NA	65	female	not reported
+TCGA-DX-AB2J	71	female	white
+TCGA-DX-AB2J	71	female	white
+TCGA-WK-A8XZ	56	female	white
+TCGA-WK-A8XZ	56	female	white
+TCGA-DX-A1KW	67	male	white
+TCGA-DX-A1KW	67	male	white
+TCGA-DX-AB2T	54	female	black or african american
+TCGA-DX-AB2T	54	female	black or african american
+TCGA-QQ-A8VG	52	male	white
+TCGA-QQ-A8VG	52	male	white
+TCGA-DX-A8BO	67	female	white
+TCGA-DX-A8BO	67	female	white
+TCGA-DX-A6BE	77	male	white
+TCGA-DX-A6BE	77	male	white
+TCGA-3B-A9HJ	68	male	white
+TCGA-3B-A9HJ	68	male	white
+TCGA-X2-A95T	49	female	white
+TCGA-X2-A95T	49	female	white
+TCGA-DX-AB2Q	65	female	white
+TCGA-DX-AB2Q	65	female	white
+TCGA-3B-A9HS	60	male	white
+TCGA-3B-A9HS	60	male	white
+TCGA-WK-A8XY	53	female	white
+TCGA-WK-A8XY	53	female	white
+TCGA-KD-A5QU	41	female	white
+TCGA-KD-A5QU	41	female	white
+TCGA-QQ-A5VC	63	female	white
+TCGA-QQ-A5VC	63	female	white
+TCGA-WK-A8XX	70	male	white
+TCGA-WK-A8XX	70	male	white
+TCGA-DX-AB2P	79	male	white
+TCGA-DX-AB2P	79	male	white
+TCGA-DX-A3UE	66	female	white
+TCGA-DX-A3UE	66	female	white
+TCGA-WP-A9GB	59	female	white
+TCGA-WP-A9GB	59	female	white
+TCGA-DX-AB2V	81	male	white
+TCGA-DX-AB2V	81	male	white
+TCGA-DX-A8BV	57	male	white
+TCGA-DX-A8BV	57	male	white
+TCGA-DX-A6B7	55	male	white
+TCGA-DX-A6B7	55	male	white
+TCGA-DX-A7EQ	72	male	white
+TCGA-DX-A7EQ	72	male	white
+TCGA-IW-A3M4	48	female	white
+TCGA-IW-A3M4	48	female	white
+TCGA-QQ-A5VB	53	female	white
+TCGA-QQ-A5VB	53	female	white
+TCGA-DX-A6YR	75	male	white
+TCGA-DX-A6YR	75	male	white
+TCGA-HB-A3YV	75	male	white
+TCGA-HB-A3YV	75	male	white
+TCGA-MJ-A68J	55	female	black or african american
+TCGA-MJ-A68J	55	female	black or african american
+TCGA-DX-A6YU	50	female	white
+TCGA-DX-A6YU	50	female	white
+TCGA-FX-A48G	56	female	white
+TCGA-FX-A48G	56	female	white
+TCGA-FX-A3TO	87	male	white
+TCGA-FX-A3TO	87	male	white
+TCGA-MJ-A850	28	male	white
+TCGA-MJ-A850	28	male	white
+TCGA-DX-A3U9	84	male	white
+TCGA-DX-A3U9	84	male	white
+TCGA-DX-A6Z2	82	female	white
+TCGA-DX-A6Z2	82	female	white
+TCGA-X6-A7WC	74	male	white
+TCGA-X6-A7WC	74	male	white
+TCGA-UE-A6QU	90	female	asian
+TCGA-UE-A6QU	90	female	asian
+TCGA-DX-AB37	73	female	white
+TCGA-DX-AB37	73	female	white
+TCGA-SG-A6Z4	47	male	white
+TCGA-SG-A6Z4	47	male	white
+TCGA-DX-A23V	57	female	white
+TCGA-DX-A23V	57	female	white
+TCGA-DX-A2J1	53	male	white
+TCGA-DX-A2J1	53	male	white
+TCGA-K1-A6RT	48	male	white
+TCGA-K1-A6RT	48	male	white
+TCGA-IE-A3OV	42	male	white
+TCGA-IE-A3OV	42	male	white
+TCGA-SI-A71P	50	male	white
+TCGA-SI-A71P	50	male	white
+TCGA-IS-A3KA	73	female	white
+TCGA-IS-A3KA	73	female	white
+TCGA-K1-A3PO	42	male	white
+TCGA-K1-A3PO	42	male	white
+TCGA-DX-AB2L	35	male	white
+TCGA-DX-AB2L	35	male	white
+TCGA-SG-A6Z7	44	female	white
+TCGA-SG-A6Z7	44	female	white
+TCGA-HS-A5N7	67	female	not reported
+TCGA-HS-A5N7	67	female	not reported
+TCGA-FX-A2QS	61	female	white
+TCGA-FX-A2QS	61	female	white
+TCGA-HS-A5N9	58	female	not reported
+TCGA-HS-A5N9	58	female	not reported
+TCGA-3B-A9HY	49	male	white
+TCGA-3B-A9HY	49	male	white
+TCGA-DX-A7EI	78	female	white
+TCGA-DX-A7EI	78	female	white
+TCGA-DX-A3LW	43	male	white
+TCGA-DX-A3LW	43	male	white
+TCGA-DX-AB2W	62	female	white
+TCGA-DX-AB2W	62	female	white
+TCGA-MB-A5YA	63	male	white
+TCGA-MB-A5YA	63	male	white
+TCGA-DX-A48K	65	male	white
+TCGA-DX-A48K	65	male	white
+TCGA-QC-A7B5	75	male	white
+TCGA-QC-A7B5	75	male	white
+TCGA-DX-A1KZ	66	male	white
+TCGA-DX-A1KZ	66	male	white
+TCGA-DX-A2J0	61	male	white
+TCGA-DX-A2J0	61	male	white
+TCGA-DX-A8BS	68	female	black or african american
+TCGA-DX-A8BS	68	female	black or african american
+TCGA-K1-A6RU	66	female	white
+TCGA-K1-A6RU	66	female	white
+TCGA-FX-A8OO	31	female	white
+TCGA-FX-A8OO	31	female	white
+TCGA-DX-A8BG	83	female	white
+TCGA-DX-A8BG	83	female	white
+TCGA-DX-A23Y	80	male	white
+TCGA-DX-A23Y	80	male	white
+TCGA-IE-A4EH	35	female	white
+TCGA-IE-A4EH	35	female	white
+TCGA-3B-A9HZ	66	male	white
+TCGA-3B-A9HZ	66	male	white
+TCGA-X6-A8C5	63	female	black or african american
+TCGA-X6-A8C5	63	female	black or african american
+TCGA-DX-AB2G	36	male	white
+TCGA-DX-AB2G	36	male	white
+TCGA-3B-A9HI	68	male	white
+TCGA-3B-A9HI	68	male	white
+TCGA-DX-A3LY	66	male	white
+TCGA-DX-A3LY	66	male	white
+TCGA-DX-A240	51	male	white
+TCGA-DX-A240	51	male	white
+TCGA-DX-A6BH	34	male	white
+TCGA-DX-A6BH	34	male	white
+TCGA-X6-A8C3	59	female	asian
+TCGA-X6-A8C3	59	female	asian
+TCGA-DX-A3LS	78	female	white
+TCGA-DX-A3LS	78	female	white
+TCGA-DX-A8BX	52	male	white
+TCGA-DX-A8BX	52	male	white
+TCGA-DX-A23Z	74	male	white
+TCGA-DX-A23Z	74	male	white
+TCGA-FX-A76Y	49	female	white
+TCGA-FX-A76Y	49	female	white
+TCGA-DX-A6BB	74	male	white
+TCGA-DX-A6BB	74	male	white
+TCGA-IW-A3M6	59	female	asian
+TCGA-IW-A3M6	59	female	asian
+TCGA-DX-A7EN	53	female	white
+TCGA-DX-A7EN	53	female	white
+TCGA-LI-A67I	75	female	white
+TCGA-LI-A67I	75	female	white
+TCGA-WK-A8XT	40	female	white
+TCGA-WK-A8XT	40	female	white
+TCGA-DX-A7ET	71	male	black or african american
+TCGA-DX-A7ET	71	male	black or african american
+TCGA-DX-A8BN	78	female	white
+TCGA-DX-A8BN	78	female	white
+TCGA-3B-A9HV	48	female	white
+TCGA-3B-A9HV	48	female	white
+TCGA-DX-A8BU	58	male	white
+TCGA-DX-A8BU	58	male	white
+TCGA-MB-A5Y8	60	female	white
+TCGA-MB-A5Y8	60	female	white
+TCGA-3B-A9HT	53	male	white
+TCGA-3B-A9HT	53	male	white
+TCGA-QQ-A8VB	68	female	white
+TCGA-QQ-A8VB	68	female	white
+TCGA-QQ-A8VF	70	male	white
+TCGA-QQ-A8VF	70	male	white
+TCGA-VT-AB3D	71	male	white
+TCGA-VT-AB3D	71	male	white
+TCGA-DX-A6BA	53	female	white
+TCGA-DX-A6BA	53	female	white
+TCGA-IF-A4AJ	80	male	white
+TCGA-IF-A4AJ	80	male	white
+TCGA-DX-A8BZ	78	female	black or african american
+TCGA-DX-A8BZ	78	female	black or african american
+TCGA-DX-A8BH	86	male	white
+TCGA-DX-A8BH	86	male	white
+TCGA-IE-A4EJ	84	female	white
+TCGA-IE-A4EJ	84	female	white
+TCGA-Z4-A9VC	37	male	white
+TCGA-Z4-A9VC	37	male	white
+TCGA-HB-A3L4	46	female	white
+TCGA-HB-A3L4	46	female	white
+TCGA-DX-AATS	72	male	white
+TCGA-DX-AATS	72	male	white
+TCGA-SI-AA8B	80	female	white
+TCGA-SI-AA8B	80	female	white
+TCGA-VT-A80J	49	female	white
+TCGA-VT-A80J	49	female	white
+TCGA-DX-A8BR	63	female	white
+TCGA-DX-A8BR	63	female	white
+TCGA-DX-A1L1	60	male	white
+TCGA-DX-A1L1	60	male	white
+TCGA-DX-A6YZ	59	male	white
+TCGA-DX-A6YZ	59	male	white
+TCGA-IE-A4EK	54	male	white
+TCGA-IE-A4EK	54	male	white
+TCGA-QQ-A8VH	31	female	white
+TCGA-QQ-A8VH	31	female	white
+TCGA-IS-A3K7	63	female	white
+TCGA-IS-A3K7	63	female	white
+TCGA-DX-A3UF	65	female	white
+TCGA-DX-A3UF	65	female	white
+TCGA-PT-A8TR	57	female	white
+TCGA-PT-A8TR	57	female	white
+TCGA-DX-A6YQ	86	female	not reported
+TCGA-DX-A6YQ	86	female	not reported
+TCGA-DX-AB2H	80	female	white
+TCGA-DX-AB2H	80	female	white
+TCGA-DX-A3U6	63	female	white
+TCGA-DX-A3U6	63	female	white
+TCGA-DX-A48J	44	male	black or african american
+TCGA-DX-A48J	44	male	black or african american
+TCGA-QQ-A5VA	60	female	white
+TCGA-QQ-A5VA	60	female	white
+TCGA-DX-AB36	86	male	white
+TCGA-DX-AB36	86	male	white
+TCGA-Z4-AAPG	64	female	white
+TCGA-Z4-AAPG	64	female	white
+TCGA-DX-A2IZ	60	male	white
+TCGA-DX-A2IZ	60	male	white
+TCGA-DX-A6YV	74	male	white
+TCGA-DX-A6YV	74	male	white
+TCGA-DX-A6BK	85	female	white
+TCGA-DX-A6BK	85	female	white
+TCGA-DX-A7EO	20	female	white
+TCGA-DX-A7EO	20	female	white
+TCGA-QQ-A8VD	56	male	white
+TCGA-QQ-A8VD	56	male	white
+TCGA-X6-A8C6	55	male	white
+TCGA-X6-A8C6	55	male	white
+TCGA-HS-A5N8	69	female	not reported
+TCGA-HS-A5N8	69	female	not reported
+TCGA-DX-A1L2	78	male	white
+TCGA-DX-A1L2	78	male	white
+TCGA-HB-A2OT	78	female	black or african american
+TCGA-HB-A2OT	78	female	black or african american
+TCGA-DX-A1KX	67	female	white
+TCGA-DX-A1KX	67	female	white
+TCGA-DX-A3UC	37	female	white
+TCGA-DX-A3UC	37	female	white
+TCGA-WK-A8XQ	57	male	white
+TCGA-WK-A8XQ	57	male	white
+TCGA-K1-A6RV	67	male	white
+TCGA-K1-A6RV	67	male	white
+TCGA-DX-A8BP	85	male	white
+TCGA-DX-A8BP	85	male	white
+TCGA-FX-A3NJ	54	male	white
+TCGA-FX-A3NJ	54	male	white
+TCGA-DX-A3UB	54	male	white
+TCGA-DX-A3UB	54	male	white
+TCGA-DX-A3UD	56	male	white
+TCGA-DX-A3UD	56	male	white
+TCGA-FX-A3RE	65	female	white
+TCGA-FX-A3RE	65	female	white
+TCGA-MJ-A68H	57	female	black or african american
+TCGA-MJ-A68H	57	female	black or african american
+TCGA-DX-A48V	78	male	white
+TCGA-DX-A48V	78	male	white
+TCGA-DX-A8BK	61	female	white
+TCGA-DX-A8BK	61	female	white
+TCGA-K1-A42W	65	female	white
+TCGA-K1-A42W	65	female	white
+TCGA-IF-A3RQ	70	female	white
+TCGA-IF-A3RQ	70	female	white
+TCGA-3B-A9HQ	66	female	white
+TCGA-3B-A9HQ	66	female	white
+TCGA-DX-A1L0	58	male	white
+TCGA-DX-A1L0	58	male	white
+TCGA-X6-A7WA	90	female	white
+TCGA-X6-A7WA	90	female	white
+TCGA-MO-A47R	75	female	asian
+TCGA-MO-A47R	75	female	asian
+TCGA-DX-AB30	53	female	white
+TCGA-DX-AB30	53	female	white
+TCGA-IE-A6BZ	65	female	white
+TCGA-IE-A6BZ	65	female	white
+TCGA-X6-A7WB	58	female	white
+TCGA-X6-A7WB	58	female	white
+TCGA-DX-A7EF	88	female	white
+TCGA-DX-A7EF	88	female	white
+TCGA-VT-A80G	66	male	white
+TCGA-VT-A80G	66	male	white
+TCGA-MB-A8JK	49	male	white
+TCGA-MB-A8JK	49	male	white
+TCGA-DX-A1L4	60	male	white
+TCGA-DX-A1L4	60	male	white
+TCGA-DX-A23U	81	male	white
+TCGA-DX-A23U	81	male	white
+TCGA-DX-A3U5	52	male	white
+TCGA-DX-A3U5	52	male	white
+TCGA-UE-A6QT	50	female	asian
+TCGA-UE-A6QT	50	female	asian
+TCGA-N1-A6IA	41	female	black or african american
+TCGA-N1-A6IA	41	female	black or african american
+TCGA-DX-A3M2	59	male	white
+TCGA-DX-A3M2	59	male	white
+TCGA-DX-A48N	47	male	white
+TCGA-DX-A48N	47	male	white
+TCGA-X6-A8C2	56	male	white
+TCGA-X6-A8C2	56	male	white
+TCGA-X9-A973	55	male	white
+TCGA-X9-A973	55	male	white
+TCGA-LI-A9QH	72	female	white
+TCGA-LI-A9QH	72	female	white
+TCGA-DX-A8BM	60	male	white
+TCGA-DX-A8BM	60	male	white
+TCGA-DX-AB2Z	87	female	white
+TCGA-DX-AB2Z	87	female	white
+TCGA-DX-AB3B	28	female	white
+TCGA-DX-AB3B	28	female	white
+TCGA-DX-A8BJ	76	male	white
+TCGA-DX-A8BJ	76	male	white
+TCGA-PC-A5DL	67	male	white
+TCGA-PC-A5DL	67	male	white
+TCGA-IF-A4AK	82	female	white
+TCGA-IF-A4AK	82	female	white
+TCGA-QQ-A5V9	76	male	white
+TCGA-QQ-A5V9	76	male	white
+TCGA-DX-AB3C	27	male	white
+TCGA-DX-AB3C	27	male	white
+TCGA-DX-A1L3	60	female	white
+TCGA-DX-A1L3	60	female	white
+TCGA-DX-A6BG	51	male	white
+TCGA-DX-A6BG	51	male	white
+TCGA-DX-AB2F	76	female	white
+TCGA-DX-AB2F	76	female	white
+TCGA-SI-AA8C	20	female	white
+TCGA-SI-AA8C	20	female	white
+TCGA-K1-A42X	62	female	white
+TCGA-K1-A42X	62	female	white
+TCGA-MB-A8JL	53	female	white
+TCGA-MB-A8JL	53	female	white
+TCGA-DX-A6B8	80	male	white
+TCGA-DX-A6B8	80	male	white
+TCGA-HB-A43Z	58	female	white
+TCGA-HB-A43Z	58	female	white
+TCGA-DX-AB2X	73	female	white
+TCGA-DX-AB2X	73	female	white
+TCGA-QC-A6FX	68	male	white
+TCGA-QC-A6FX	68	male	white
+TCGA-3B-A9HU	53	female	black or african american
+TCGA-3B-A9HU	53	female	black or african american
+TCGA-DX-A7ES	50	female	white
+TCGA-DX-A7ES	50	female	white
+TCGA-MO-A47P	37	female	asian
+TCGA-MO-A47P	37	female	asian
+TCGA-DX-A48R	41	male	white
+TCGA-DX-A48R	41	male	white
+TCGA-FX-A3NK	53	male	white
+TCGA-FX-A3NK	53	male	white
+TCGA-3B-A9I1	56	female	black or african american
+TCGA-3B-A9I1	56	female	black or african american
+TCGA-PC-A5DM	73	male	white
+TCGA-PC-A5DM	73	male	white
+TCGA-QC-AA9N	53	female	black or african american
+TCGA-QC-AA9N	53	female	black or african american
+TCGA-DX-A7ER	69	male	white
+TCGA-DX-A7ER	69	male	white
+TCGA-SI-A71O	29	male	white
+TCGA-SI-A71O	29	male	white
+TCGA-3B-A9I0	33	male	white
+TCGA-3B-A9I0	33	male	white
+TCGA-3B-A9I3	62	male	white
+TCGA-3B-A9I3	62	male	white
+TCGA-3B-A9HL	67	male	white
+TCGA-3B-A9HL	67	male	white
+TCGA-WK-A8Y0	49	female	white
+TCGA-WK-A8Y0	49	female	white
+TCGA-DX-A3UA	47	female	white
+TCGA-DX-A3UA	47	female	white
+TCGA-DX-A8BQ	63	male	white
+TCGA-DX-A8BQ	63	male	white
+TCGA-X6-A8C7	24	female	white
+TCGA-X6-A8C7	24	female	white
+TCGA-X9-A971	52	female	white
+TCGA-X9-A971	52	female	white
+TCGA-PC-A5DO	59	female	white
+TCGA-PC-A5DO	59	female	white
+TCGA-X6-A8C4	70	female	white
+TCGA-X6-A8C4	70	female	white
+TCGA-DX-A23R	55	female	white
+TCGA-DX-A23R	55	female	white
+TCGA-SI-A71Q	34	female	black or african american
+TCGA-SI-A71Q	34	female	black or african american
+TCGA-DX-A3M1	79	male	white
+TCGA-DX-A3M1	79	male	white
+TCGA-DX-A6YS	61	male	white
+TCGA-DX-A6YS	61	male	white
+TCGA-DX-A7EM	61	male	white
+TCGA-DX-A7EM	61	male	white
+TCGA-DX-AB2S	53	female	white
+TCGA-DX-AB2S	53	female	white
+TCGA-DX-A1KY	66	male	white
+TCGA-DX-A1KY	66	male	white
+TCGA-3B-A9HR	38	female	black or african american
+TCGA-3B-A9HR	38	female	black or african american
+TCGA-QQ-A5V2	42	male	white
+TCGA-QQ-A5V2	42	male	white
+TCGA-KD-A5QT	69	female	not reported
+TCGA-KD-A5QT	69	female	not reported
+TCGA-PC-A5DK	63	male	white
+TCGA-PC-A5DK	63	male	white
+TCGA-IW-A3M5	76	female	white
+TCGA-IW-A3M5	76	female	white
+TCGA-WK-A8XS	58	female	white
+TCGA-WK-A8XS	58	female	white
+TCGA-HB-A5W3	58	female	white
+TCGA-HB-A5W3	58	female	white
+TCGA-IE-A4EI	67	female	white
+TCGA-IE-A4EI	67	female	white
+TCGA-X6-A7W8	89	male	white
+TCGA-X6-A7W8	89	male	white
+TCGA-DX-A6Z0	78	female	white
+TCGA-DX-A6Z0	78	female	white
+TCGA-KF-A41W	71	female	white
+TCGA-KF-A41W	71	female	white
+TCGA-DX-AB3A	80	male	white
+TCGA-DX-AB3A	80	male	white
+TCGA-DX-A6B9	45	female	black or african american
+TCGA-DX-A6B9	45	female	black or african american
+TCGA-DX-AB2E	60	male	white
+TCGA-DX-AB2E	60	male	white
+TCGA-JV-A75J	43	female	white
+TCGA-JV-A75J	43	female	white
+TCGA-JV-A5VF	69	female	black or african american
+TCGA-JV-A5VF	69	female	black or african american
+TCGA-DX-AB32	51	male	white
+TCGA-DX-AB32	51	male	white
+TCGA-DX-A3U8	43	male	not reported
+TCGA-DX-A3U8	43	male	not reported
+TCGA-RN-A68Q	62	female	white
+TCGA-RN-A68Q	62	female	white
+TCGA-DX-A7EU	79	female	white
+TCGA-DX-A7EU	79	female	white
+TCGA-SG-A849	78	male	white
+TCGA-SG-A849	78	male	white
+TCGA-DX-A48L	49	female	white
+TCGA-DX-A48L	49	female	white
+TCGA-PC-A5DN	77	female	white
+TCGA-PC-A5DN	77	female	white
+TCGA-IS-A3K8	44	female	white
+TCGA-IS-A3K8	44	female	white
+TCGA-Z4-A8JB	24	female	white
+TCGA-Z4-A8JB	24	female	white
+TCGA-DX-A48P	54	female	white
+TCGA-DX-A48P	54	female	white
+TCGA-RN-AAAQ	52	male	white
+TCGA-RN-AAAQ	52	male	white
+TCGA-X6-A7WD	63	female	white
+TCGA-X6-A7WD	63	female	white
+TCGA-Z4-AAPF	35	female	white
+TCGA-Z4-AAPF	35	female	white
+TCGA-JV-A5VE	60	female	black or african american
+TCGA-JV-A5VE	60	female	black or african american
+TCGA-QQ-A5VD	52	male	white
+TCGA-QQ-A5VD	52	male	white
+TCGA-MB-A5Y9	90	male	white
+TCGA-MB-A5Y9	90	male	white
+TCGA-DX-A3LU	60	male	white
+TCGA-DX-A3LU	60	male	white
+TCGA-DX-A3LT	62	male	white
+TCGA-DX-A3LT	62	male	white
+TCGA-DX-A8BL	59	male	white
+TCGA-DX-A8BL	59	male	white
+TCGA-DX-A1KU	82	male	white
+TCGA-DX-A1KU	82	male	white
+TCGA-DX-A3U7	67	male	white
+TCGA-DX-A3U7	67	male	white
+TCGA-IS-A3K6	55	female	white
+TCGA-IS-A3K6	55	female	white
+TCGA-DX-A6YX	68	female	not reported
+TCGA-DX-A6YX	68	female	not reported
+TCGA-DX-A8BT	63	female	white
+TCGA-DX-A8BT	63	female	white
+TCGA-DX-A7EL	56	female	white
+TCGA-DX-A7EL	56	female	white
+TCGA-PC-A5DP	72	female	white
+TCGA-PC-A5DP	72	female	white
+TCGA-DX-A48U	57	male	white
+TCGA-DX-A48U	57	male	white
+TCGA-3R-A8YX	66	male	not reported
+TCGA-3R-A8YX	66	male	not reported
+TCGA-KD-A5QS	55	female	white
+TCGA-KD-A5QS	55	female	white
+TCGA-K1-A3PN	64	female	white
+TCGA-K1-A3PN	64	female	white
+TCGA-3B-A9HO	75	male	white
+TCGA-3B-A9HO	75	male	white
+TCGA-DX-AB2O	78	female	white
+TCGA-DX-AB2O	78	female	white
+TCGA-DX-A6BF	82	female	white
+TCGA-DX-A6BF	82	female	white
+TCGA-DX-A2J4	60	male	white
+TCGA-DX-A2J4	60	male	white
+TCGA-3B-A9HP	57	female	white
+TCGA-3B-A9HP	57	female	white
+TCGA-DX-A6YT	31	female	white
+TCGA-DX-A6YT	31	female	white
+TCGA-WK-A8XO	66	female	white
+TCGA-WK-A8XO	66	female	white
+TCGA-DX-A48O	63	female	white
+TCGA-DX-A48O	63	female	white
+TCGA-DX-A23T	40	female	white
+TCGA-DX-A23T	40	female	white

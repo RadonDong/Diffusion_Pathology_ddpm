@@ -1,0 +1,185 @@
+case_submitter_id	age_at_index	gender	race
+TCGA-OR-A5JL	36	female	white
+TCGA-OR-A5JL	36	female	white
+TCGA-OR-A5LL	75	female	not reported
+TCGA-OR-A5LL	75	female	not reported
+TCGA-OR-A5J7	30	female	white
+TCGA-OR-A5J7	30	female	white
+TCGA-P6-A5OG	45	female	white
+TCGA-P6-A5OG	45	female	white
+TCGA-OR-A5J8	66	male	white
+TCGA-OR-A5J8	66	male	white
+TCGA-OR-A5KB	61	female	white
+TCGA-OR-A5KB	61	female	white
+TCGA-OR-A5JP	40	male	white
+TCGA-OR-A5JP	40	male	white
+TCGA-OR-A5KS	72	male	white
+TCGA-OR-A5KS	72	male	white
+TCGA-OR-A5LT	57	male	not reported
+TCGA-OR-A5LT	57	male	not reported
+TCGA-OR-A5JQ	26	female	white
+TCGA-OR-A5JQ	26	female	white
+TCGA-OR-A5K8	39	male	white
+TCGA-OR-A5K8	39	male	white
+TCGA-OR-A5LO	61	female	not reported
+TCGA-OR-A5LO	61	female	not reported
+TCGA-OR-A5KV	17	female	white
+TCGA-OR-A5KV	17	female	white
+TCGA-OR-A5JD	57	female	white
+TCGA-OR-A5JD	57	female	white
+TCGA-OR-A5K6	56	female	white
+TCGA-OR-A5K6	56	female	white
+TCGA-OR-A5L5	77	female	white
+TCGA-OR-A5L5	77	female	white
+TCGA-OR-A5KX	25	female	white
+TCGA-OR-A5KX	25	female	white
+TCGA-OR-A5JY	68	female	white
+TCGA-OR-A5JY	68	female	white
+TCGA-OR-A5JV	55	male	white
+TCGA-OR-A5JV	55	male	white
+TCGA-OR-A5L1	37	female	white
+TCGA-OR-A5L1	37	female	white
+TCGA-OR-A5KU	37	female	white
+TCGA-OR-A5KU	37	female	white
+TCGA-PK-A5H8	42	male	white
+TCGA-PK-A5H8	42	male	white
+TCGA-OR-A5JX	50	male	white
+TCGA-OR-A5JX	50	male	white
+TCGA-OR-A5JA	53	female	white
+TCGA-OR-A5JA	53	female	white
+TCGA-OR-A5JH	32	female	white
+TCGA-OR-A5JH	32	female	white
+TCGA-OR-A5JO	26	female	white
+TCGA-OR-A5JO	26	female	white
+TCGA-OR-A5LN	31	female	not reported
+TCGA-OR-A5LN	31	female	not reported
+TCGA-OR-A5L8	36	female	white
+TCGA-OR-A5L8	36	female	white
+TCGA-PK-A5HA	63	male	not reported
+TCGA-PK-A5HA	63	male	not reported
+TCGA-OR-A5J4	23	female	white
+TCGA-OR-A5J4	23	female	white
+TCGA-OR-A5KY	23	female	white
+TCGA-OR-A5KY	23	female	white
+TCGA-OR-A5JW	47	male	white
+TCGA-OR-A5JW	47	male	white
+TCGA-OR-A5KP	45	female	white
+TCGA-OR-A5KP	45	female	white
+TCGA-OR-A5KW	55	female	white
+TCGA-OR-A5KW	55	female	white
+TCGA-OR-A5K2	32	female	white
+TCGA-OR-A5K2	32	female	white
+TCGA-OR-A5K4	64	female	white
+TCGA-OR-A5K4	64	female	white
+TCGA-OR-A5JG	61	male	white
+TCGA-OR-A5JG	61	male	white
+TCGA-OR-A5LR	30	female	not reported
+TCGA-OR-A5LR	30	female	not reported
+TCGA-OR-A5LF	74	female	white
+TCGA-OR-A5LF	74	female	white
+TCGA-OR-A5J5	30	male	white
+TCGA-OR-A5J5	30	male	white
+TCGA-OR-A5JS	65	female	white
+TCGA-OR-A5JS	65	female	white
+TCGA-PK-A5H9	27	female	asian
+TCGA-PK-A5H9	27	female	asian
+TCGA-P6-A5OF	55	female	white
+TCGA-P6-A5OF	55	female	white
+TCGA-PK-A5HC	44	female	asian
+TCGA-PK-A5HC	44	female	asian
+TCGA-PA-A5YG	51	male	white
+TCGA-PA-A5YG	51	male	white
+TCGA-OR-A5J2	44	female	white
+TCGA-OR-A5J2	44	female	white
+TCGA-OR-A5L4	48	female	white
+TCGA-OR-A5L4	48	female	white
+TCGA-P6-A5OH	59	female	white
+TCGA-P6-A5OH	59	female	white
+TCGA-OR-A5JZ	60	male	white
+TCGA-OR-A5JZ	60	male	white
+TCGA-OR-A5KZ	42	male	white
+TCGA-OR-A5KZ	42	male	white
+TCGA-PK-A5HB	63	male	not reported
+TCGA-PK-A5HB	63	male	not reported
+TCGA-OR-A5LK	62	male	not reported
+TCGA-OR-A5LK	62	male	not reported
+TCGA-OR-A5JJ	65	male	white
+TCGA-OR-A5JJ	65	male	white
+TCGA-OR-A5JR	45	male	white
+TCGA-OR-A5JR	45	male	white
+TCGA-OR-A5L2	83	female	white
+TCGA-OR-A5L2	83	female	white
+TCGA-OR-A5KQ	20	female	white
+TCGA-OR-A5KQ	20	female	white
+TCGA-OR-A5JK	49	male	white
+TCGA-OR-A5JK	49	male	white
+TCGA-OR-A5J9	22	female	white
+TCGA-OR-A5J9	22	female	white
+TCGA-OU-A5PI	53	female	white
+TCGA-OU-A5PI	53	female	white
+TCGA-OR-A5L3	67	female	white
+TCGA-OR-A5L3	67	female	white
+TCGA-OR-A5J1	58	male	white
+TCGA-OR-A5J1	58	male	white
+TCGA-OR-A5KO	39	female	white
+TCGA-OR-A5KO	39	female	white
+TCGA-OR-A5JI	22	male	white
+TCGA-OR-A5JI	22	male	white
+TCGA-OR-A5JE	17	female	white
+TCGA-OR-A5JE	17	female	white
+TCGA-OR-A5JC	37	male	white
+TCGA-OR-A5JC	37	male	white
+TCGA-OR-A5JT	65	female	white
+TCGA-OR-A5JT	65	female	white
+TCGA-OR-A5LE	14	male	white
+TCGA-OR-A5LE	14	male	white
+TCGA-OR-A5L9	53	female	white
+TCGA-OR-A5L9	53	female	white
+TCGA-OR-A5K3	53	male	white
+TCGA-OR-A5K3	53	male	white
+TCGA-OR-A5J6	29	female	black or african american
+TCGA-OR-A5J6	29	female	black or african american
+TCGA-OR-A5JU	58	female	white
+TCGA-OR-A5JU	58	female	white
+TCGA-OR-A5LH	36	female	white
+TCGA-OR-A5LH	36	female	white
+TCGA-OR-A5K5	59	female	white
+TCGA-OR-A5K5	59	female	white
+TCGA-OR-A5JB	52	male	white
+TCGA-OR-A5JB	52	male	white
+TCGA-OR-A5LD	52	male	white
+TCGA-OR-A5LD	52	male	white
+TCGA-OR-A5K9	61	female	white
+TCGA-OR-A5K9	61	female	white
+TCGA-OR-A5JF	69	female	white
+TCGA-OR-A5JF	69	female	white
+TCGA-OR-A5KT	44	female	white
+TCGA-OR-A5KT	44	female	white
+TCGA-OR-A5J3	23	female	white
+TCGA-OR-A5J3	23	female	white
+TCGA-OR-A5LP	37	female	not reported
+TCGA-OR-A5LP	37	female	not reported
+TCGA-OR-A5LM	23	male	not reported
+TCGA-OR-A5LM	23	male	not reported
+TCGA-OR-A5LA	52	female	white
+TCGA-OR-A5LA	52	female	white
+TCGA-OR-A5LI	42	female	white
+TCGA-OR-A5LI	42	female	white
+TCGA-OR-A5K0	69	female	white
+TCGA-OR-A5K0	69	female	white
+TCGA-OR-A5L6	60	male	white
+TCGA-OR-A5L6	60	male	white
+TCGA-OR-A5LS	34	female	not reported
+TCGA-OR-A5LS	34	female	not reported
+TCGA-OR-A5LC	71	female	white
+TCGA-OR-A5LC	71	female	white
+TCGA-OR-A5K1	48	male	white
+TCGA-OR-A5K1	48	male	white
+TCGA-OR-A5LG	46	male	white
+TCGA-OR-A5LG	46	male	white
+TCGA-OR-A5LB	59	male	white
+TCGA-OR-A5LB	59	male	white
+TCGA-OR-A5JM	25	female	white
+TCGA-OR-A5JM	25	female	white
+TCGA-OR-A5LJ	54	female	white
+TCGA-OR-A5LJ	54	female	white

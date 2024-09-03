@@ -1,0 +1,161 @@
+case_submitter_id	age_at_index	gender	race
+TCGA-V4-A9EO	74	male	white
+TCGA-V4-A9EO	74	male	white
+TCGA-VD-A8KA	22	male	not reported
+TCGA-VD-A8KA	22	male	not reported
+TCGA-VD-AA8S	40	male	not reported
+TCGA-VD-AA8S	40	male	not reported
+TCGA-V4-A9E9	50	male	white
+TCGA-V4-A9E9	50	male	white
+TCGA-WC-A880	63	male	white
+TCGA-WC-A880	63	male	white
+TCGA-WC-A87T	64	male	white
+TCGA-WC-A87T	64	male	white
+TCGA-VD-A8KG	47	female	not reported
+TCGA-VD-A8KG	47	female	not reported
+TCGA-V4-A9EJ	38	male	white
+TCGA-V4-A9EJ	38	male	white
+TCGA-V4-A9EV	59	female	white
+TCGA-V4-A9EV	59	female	white
+TCGA-VD-A8K9	71	female	not reported
+TCGA-VD-A8K9	71	female	not reported
+TCGA-VD-A8KK	54	male	not reported
+TCGA-VD-A8KK	54	male	not reported
+TCGA-V3-A9ZY	54	male	white
+TCGA-V3-A9ZY	54	male	white
+TCGA-YZ-A983	51	female	white
+TCGA-YZ-A983	51	female	white
+TCGA-V4-A9ET	57	male	white
+TCGA-V4-A9ET	57	male	white
+TCGA-V4-A9F7	78	female	white
+TCGA-V4-A9F7	78	female	white
+TCGA-YZ-A980	75	male	white
+TCGA-YZ-A980	75	male	white
+TCGA-VD-A8KH	69	male	not reported
+TCGA-VD-A8KH	69	male	not reported
+TCGA-WC-AA9E	60	male	white
+TCGA-WC-AA9E	60	male	white
+TCGA-V4-A9EW	44	female	white
+TCGA-V4-A9EW	44	female	white
+TCGA-VD-AA8P	64	female	not reported
+TCGA-VD-AA8P	64	female	not reported
+TCGA-V4-A9EH	53	male	white
+TCGA-V4-A9EH	53	male	white
+TCGA-VD-AA8N	86	male	not reported
+TCGA-VD-AA8N	86	male	not reported
+TCGA-WC-A881	75	male	white
+TCGA-WC-A881	75	male	white
+TCGA-YZ-A984	50	female	white
+TCGA-YZ-A984	50	female	white
+TCGA-VD-AA8T	83	female	not reported
+TCGA-VD-AA8T	83	female	not reported
+TCGA-VD-A8KI	68	male	not reported
+TCGA-VD-A8KI	68	male	not reported
+TCGA-VD-A8KO	51	male	not reported
+TCGA-VD-A8KO	51	male	not reported
+TCGA-WC-AA9A	70	female	white
+TCGA-WC-AA9A	70	female	white
+TCGA-V4-A9E5	51	female	white
+TCGA-V4-A9E5	51	female	white
+TCGA-V4-A9EY	66	female	white
+TCGA-V4-A9EY	66	female	white
+TCGA-VD-A8KM	65	male	not reported
+TCGA-VD-A8KM	65	male	not reported
+TCGA-VD-AA8Q	71	male	not reported
+TCGA-VD-AA8Q	71	male	not reported
+TCGA-RZ-AB0B	47	female	white
+TCGA-RZ-AB0B	47	female	white
+TCGA-VD-A8KB	66	female	not reported
+TCGA-VD-A8KB	66	female	not reported
+TCGA-WC-A888	76	male	white
+TCGA-WC-A888	76	male	white
+TCGA-V4-A9ED	45	male	white
+TCGA-V4-A9ED	45	male	white
+TCGA-V4-A9EZ	78	female	white
+TCGA-V4-A9EZ	78	female	white
+TCGA-WC-A87Y	59	male	white
+TCGA-WC-A87Y	59	male	white
+TCGA-V4-A9F2	78	female	white
+TCGA-V4-A9F2	78	female	white
+TCGA-V4-A9EK	37	female	white
+TCGA-V4-A9EK	37	female	white
+TCGA-WC-A87U	73	male	white
+TCGA-WC-A87U	73	male	white
+TCGA-V4-A9F4	41	male	white
+TCGA-V4-A9F4	41	male	white
+TCGA-WC-A88A	75	male	white
+TCGA-WC-A88A	75	male	white
+TCGA-V3-A9ZX	56	male	white
+TCGA-V3-A9ZX	56	male	white
+TCGA-WC-A87W	57	female	white
+TCGA-WC-A87W	57	female	white
+TCGA-VD-A8K7	39	male	not reported
+TCGA-VD-A8K7	39	male	not reported
+TCGA-V4-A9F8	68	male	white
+TCGA-V4-A9F8	68	male	white
+TCGA-V4-A9EM	53	male	white
+TCGA-V4-A9EM	53	male	white
+TCGA-VD-A8KJ	53	male	not reported
+TCGA-VD-A8KJ	53	male	not reported
+TCGA-VD-A8KD	72	male	not reported
+TCGA-VD-A8KD	72	male	not reported
+TCGA-VD-A8KF	68	male	not reported
+TCGA-VD-A8KF	68	male	not reported
+TCGA-WC-A882	50	female	white
+TCGA-WC-A882	50	female	white
+TCGA-V4-A9EX	55	female	white
+TCGA-V4-A9EX	55	female	white
+TCGA-V4-A9EL	60	male	white
+TCGA-V4-A9EL	60	male	white
+TCGA-V4-A9F0	59	male	white
+TCGA-V4-A9F0	59	male	white
+TCGA-V4-A9F1	46	female	white
+TCGA-V4-A9F1	46	female	white
+TCGA-VD-AA8R	78	female	not reported
+TCGA-VD-AA8R	78	female	not reported
+TCGA-VD-AA8O	77	male	not reported
+TCGA-VD-AA8O	77	male	not reported
+TCGA-VD-A8K8	56	female	not reported
+TCGA-VD-A8K8	56	female	not reported
+TCGA-VD-AA8M	64	male	not reported
+TCGA-VD-AA8M	64	male	not reported
+TCGA-WC-A883	76	female	white
+TCGA-WC-A883	76	female	white
+TCGA-V4-A9EF	56	male	white
+TCGA-V4-A9EF	56	male	white
+TCGA-V4-A9EQ	64	male	white
+TCGA-V4-A9EQ	64	male	white
+TCGA-WC-A884	35	female	white
+TCGA-WC-A884	35	female	white
+TCGA-VD-A8KL	77	female	not reported
+TCGA-VD-A8KL	77	female	not reported
+TCGA-V4-A9EA	66	male	white
+TCGA-V4-A9EA	66	male	white
+TCGA-VD-A8KN	60	female	not reported
+TCGA-VD-A8KN	60	female	not reported
+TCGA-V4-A9EI	78	male	white
+TCGA-V4-A9EI	78	male	white
+TCGA-V4-A9E7	76	male	white
+TCGA-V4-A9E7	76	male	white
+TCGA-V4-A9F5	85	female	white
+TCGA-V4-A9F5	85	female	white
+TCGA-V4-A9ES	54	female	white
+TCGA-V4-A9ES	54	female	white
+TCGA-VD-A8KE	74	female	not reported
+TCGA-VD-A8KE	74	female	not reported
+TCGA-YZ-A982	79	female	white
+TCGA-YZ-A982	79	female	white
+TCGA-V4-A9EU	83	female	white
+TCGA-V4-A9EU	83	female	white
+TCGA-V4-A9E8	49	male	white
+TCGA-V4-A9E8	49	male	white
+TCGA-V4-A9F3	49	female	white
+TCGA-V4-A9F3	49	female	white
+TCGA-YZ-A985	41	female	white
+TCGA-YZ-A985	41	female	white
+TCGA-V4-A9EE	86	male	white
+TCGA-V4-A9EE	86	male	white
+TCGA-V4-A9EC	75	female	white
+TCGA-V4-A9EC	75	female	white
+TCGA-WC-A885	60	male	white
+TCGA-WC-A885	60	male	white

@@ -1,0 +1,887 @@
+case_submitter_id	age_at_index	gender	race
+TCGA-VQ-A94O	74	male	black or african american
+TCGA-VQ-A94O	74	male	black or african american
+TCGA-BR-8483	59	male	white
+TCGA-BR-8483	59	male	white
+TCGA-VQ-A8PP	76	male	not reported
+TCGA-VQ-A8PP	76	male	not reported
+TCGA-D7-6822	77	male	white
+TCGA-D7-6822	77	male	white
+TCGA-HU-8249	76	male	asian
+TCGA-HU-8249	76	male	asian
+TCGA-D7-6519	64	female	white
+TCGA-D7-6519	64	female	white
+TCGA-CD-5798	82	male	asian
+TCGA-CD-5798	82	male	asian
+TCGA-D7-8573	57	male	white
+TCGA-D7-8573	57	male	white
+TCGA-KB-A6F5	73	male	not reported
+TCGA-KB-A6F5	73	male	not reported
+TCGA-VQ-A8PQ	50	female	white
+TCGA-VQ-A8PQ	50	female	white
+TCGA-KB-A93G	68	male	white
+TCGA-KB-A93G	68	male	white
+TCGA-BR-8059	72	male	white
+TCGA-BR-8059	72	male	white
+TCGA-CG-5732	66	male	not reported
+TCGA-CG-5732	66	male	not reported
+TCGA-BR-4292	73	female	white
+TCGA-BR-4292	73	female	white
+TCGA-VQ-A94T	73	male	not reported
+TCGA-VQ-A94T	73	male	not reported
+TCGA-BR-A4J1	63	male	asian
+TCGA-BR-A4J1	63	male	asian
+TCGA-BR-8081	71	female	white
+TCGA-BR-8081	71	female	white
+TCGA-MX-A663	66	male	white
+TCGA-MX-A663	66	male	white
+TCGA-CG-4462	72	female	not reported
+TCGA-CG-4462	72	female	not reported
+TCGA-HU-A4H4	53	female	asian
+TCGA-HU-A4H4	53	female	asian
+TCGA-VQ-AA6A	56	male	white
+TCGA-VQ-AA6A	56	male	white
+TCGA-VQ-A925	66	male	white
+TCGA-VQ-A925	66	male	white
+TCGA-BR-6710	41	male	white
+TCGA-BR-6710	41	male	white
+TCGA-RD-A7BT	66	male	native hawaiian or other pacific islander
+TCGA-RD-A7BT	66	male	native hawaiian or other pacific islander
+TCGA-D7-A74B	52	female	white
+TCGA-D7-A74B	52	female	white
+TCGA-VQ-A8PB	65	female	white
+TCGA-VQ-A8PB	65	female	white
+TCGA-CD-5800	51	female	asian
+TCGA-CD-5800	51	female	asian
+TCGA-CD-A4MG	76	male	asian
+TCGA-CD-A4MG	76	male	asian
+TCGA-HU-A4GJ	60	female	asian
+TCGA-HU-A4GJ	60	female	asian
+TCGA-CG-5722	67	female	not reported
+TCGA-CG-5722	67	female	not reported
+TCGA-HF-7131	'--	female	not reported
+TCGA-HF-7131	'--	female	not reported
+TCGA-BR-7851	74	male	white
+TCGA-BR-7851	74	male	white
+TCGA-CG-5730	80	female	not reported
+TCGA-CG-5730	80	female	not reported
+TCGA-ZQ-A9CR	79	female	white
+TCGA-ZQ-A9CR	79	female	white
+TCGA-FP-A4BF	68	male	white
+TCGA-FP-A4BF	68	male	white
+TCGA-CD-5802	58	male	asian
+TCGA-CD-5802	58	male	asian
+TCGA-RD-A8MW	72	male	white
+TCGA-RD-A8MW	72	male	white
+TCGA-BR-8484	61	male	white
+TCGA-BR-8484	61	male	white
+TCGA-BR-4267	51	male	white
+TCGA-BR-4267	51	male	white
+TCGA-BR-4184	70	male	white
+TCGA-BR-4184	70	male	white
+TCGA-IP-7968	74	male	white
+TCGA-IP-7968	74	male	white
+TCGA-BR-A4QM	65	male	white
+TCGA-BR-A4QM	65	male	white
+TCGA-BR-A4PE	68	female	white
+TCGA-BR-A4PE	68	female	white
+TCGA-RD-A8NB	80	female	white
+TCGA-RD-A8NB	80	female	white
+TCGA-BR-A4J6	69	female	white
+TCGA-BR-A4J6	69	female	white
+TCGA-EQ-A4SO	70	male	white
+TCGA-EQ-A4SO	70	male	white
+TCGA-F1-6874	79	male	white
+TCGA-F1-6874	79	male	white
+TCGA-BR-A4CQ	58	male	white
+TCGA-BR-A4CQ	58	male	white
+TCGA-CG-4449	81	male	not reported
+TCGA-CG-4449	81	male	not reported
+TCGA-D7-6820	64	male	white
+TCGA-D7-6820	64	male	white
+TCGA-BR-4279	43	male	white
+TCGA-BR-4279	43	male	white
+TCGA-BR-4187	56	male	white
+TCGA-BR-4187	56	male	white
+TCGA-CG-5728	88	female	not reported
+TCGA-CG-5728	88	female	not reported
+TCGA-CG-5725	72	male	not reported
+TCGA-CG-5725	72	male	not reported
+TCGA-BR-A4J2	70	male	asian
+TCGA-BR-A4J2	70	male	asian
+TCGA-HU-8610	75	male	asian
+TCGA-HU-8610	75	male	asian
+TCGA-HU-A4GC	74	male	asian
+TCGA-HU-A4GC	74	male	asian
+TCGA-BR-4188	53	female	white
+TCGA-BR-4188	53	female	white
+TCGA-CD-5813	60	male	asian
+TCGA-CD-5813	60	male	asian
+TCGA-RD-A8N2	59	female	white
+TCGA-RD-A8N2	59	female	white
+TCGA-HU-A4G8	71	female	asian
+TCGA-HU-A4G8	71	female	asian
+TCGA-VQ-A8P5	67	male	white
+TCGA-VQ-A8P5	67	male	white
+TCGA-RD-A8MV	56	male	white
+TCGA-RD-A8MV	56	male	white
+TCGA-BR-8678	76	male	white
+TCGA-BR-8678	76	male	white
+TCGA-R5-A804	54	male	black or african american
+TCGA-R5-A804	54	male	black or african american
+TCGA-D7-A4YY	61	male	white
+TCGA-D7-A4YY	61	male	white
+TCGA-CG-4477	58	female	not reported
+TCGA-CG-4477	58	female	not reported
+TCGA-KB-A6F7	54	female	not reported
+TCGA-KB-A6F7	54	female	not reported
+TCGA-BR-A453	51	male	asian
+TCGA-BR-A453	51	male	asian
+TCGA-CD-8528	43	female	asian
+TCGA-CD-8528	43	female	asian
+TCGA-BR-8485	68	female	white
+TCGA-BR-8485	68	female	white
+TCGA-FP-8631	68	male	white
+TCGA-FP-8631	68	male	white
+TCGA-D7-A6EX	72	female	white
+TCGA-D7-A6EX	72	female	white
+TCGA-BR-7196	64	male	white
+TCGA-BR-7196	64	male	white
+TCGA-CD-8527	72	female	asian
+TCGA-CD-8527	72	female	asian
+TCGA-BR-6456	74	female	white
+TCGA-BR-6456	74	female	white
+TCGA-FP-7735	77	male	black or african american
+TCGA-FP-7735	77	male	black or african american
+TCGA-HF-7134	'--	male	not reported
+TCGA-HF-7134	'--	male	not reported
+TCGA-D7-8570	44	male	white
+TCGA-D7-8570	44	male	white
+TCGA-IN-AB1X	78	female	white
+TCGA-IN-AB1X	78	female	white
+TCGA-BR-A4J8	71	female	white
+TCGA-BR-A4J8	71	female	white
+TCGA-VQ-A8PS	76	male	white
+TCGA-VQ-A8PS	76	male	white
+TCGA-BR-7958	60	male	white
+TCGA-BR-7958	60	male	white
+TCGA-CD-A4MH	86	female	asian
+TCGA-CD-A4MH	86	female	asian
+TCGA-RD-A8N0	53	female	white
+TCGA-RD-A8N0	53	female	white
+TCGA-BR-8060	75	female	white
+TCGA-BR-8060	75	female	white
+TCGA-D7-A6ET	76	male	white
+TCGA-D7-A6ET	76	male	white
+TCGA-D7-A6EZ	66	male	white
+TCGA-D7-A6EZ	66	male	white
+TCGA-BR-8291	61	male	white
+TCGA-BR-8291	61	male	white
+TCGA-BR-8296	58	female	white
+TCGA-BR-8296	58	female	white
+TCGA-IN-A7NU	69	male	white
+TCGA-IN-A7NU	69	male	white
+TCGA-RD-A8N4	58	female	white
+TCGA-RD-A8N4	58	female	white
+TCGA-VQ-A8PC	65	male	white
+TCGA-VQ-A8PC	65	male	white
+TCGA-BR-6452	78	female	white
+TCGA-BR-6452	78	female	white
+TCGA-F1-6875	79	male	black or african american
+TCGA-F1-6875	79	male	black or african american
+TCGA-CD-A4MJ	60	male	asian
+TCGA-CD-A4MJ	60	male	asian
+TCGA-BR-7703	81	male	white
+TCGA-BR-7703	81	male	white
+TCGA-VQ-A91K	69	male	white
+TCGA-VQ-A91K	69	male	white
+TCGA-CG-5734	68	male	not reported
+TCGA-CG-5734	68	male	not reported
+TCGA-IN-A6RJ	64	male	white
+TCGA-IN-A6RJ	64	male	white
+TCGA-BR-A4CS	77	male	white
+TCGA-BR-A4CS	77	male	white
+TCGA-CG-4469	70	male	not reported
+TCGA-CG-4469	70	male	not reported
+TCGA-IN-A6RO	70	male	asian
+TCGA-IN-A6RO	70	male	asian
+TCGA-D7-A4YX	63	male	white
+TCGA-D7-A4YX	63	male	white
+TCGA-EQ-5647	86	female	white
+TCGA-EQ-5647	86	female	white
+TCGA-D7-5577	53	female	white
+TCGA-D7-5577	53	female	white
+TCGA-VQ-A91E	67	female	white
+TCGA-VQ-A91E	67	female	white
+TCGA-CG-4466	81	female	not reported
+TCGA-CG-4466	81	female	not reported
+TCGA-BR-6803	54	female	white
+TCGA-BR-6803	54	female	white
+TCGA-BR-A4IV	47	male	asian
+TCGA-BR-A4IV	47	male	asian
+TCGA-BR-8297	58	male	white
+TCGA-BR-8297	58	male	white
+TCGA-CG-4472	49	male	not reported
+TCGA-CG-4472	49	male	not reported
+TCGA-HU-A4G6	74	male	asian
+TCGA-HU-A4G6	74	male	asian
+TCGA-CD-8524	61	female	asian
+TCGA-CD-8524	61	female	asian
+TCGA-VQ-A8PE	78	male	white
+TCGA-VQ-A8PE	78	male	white
+TCGA-D7-A4YU	73	male	white
+TCGA-D7-A4YU	73	male	white
+TCGA-BR-4183	55	female	white
+TCGA-BR-4183	55	female	white
+TCGA-BR-8690	54	female	white
+TCGA-BR-8690	54	female	white
+TCGA-CD-5803	78	female	asian
+TCGA-CD-5803	78	female	asian
+TCGA-VQ-A91D	70	male	white
+TCGA-VQ-A91D	70	male	white
+TCGA-D7-6528	70	female	white
+TCGA-D7-6528	70	female	white
+TCGA-FP-A9TM	77	male	white
+TCGA-FP-A9TM	77	male	white
+TCGA-HU-A4HB	68	male	asian
+TCGA-HU-A4HB	68	male	asian
+TCGA-VQ-A91U	78	male	asian
+TCGA-VQ-A91U	78	male	asian
+TCGA-CG-4441	83	male	not reported
+TCGA-CG-4441	83	male	not reported
+TCGA-D7-A747	57	male	white
+TCGA-D7-A747	57	male	white
+TCGA-BR-A4J7	49	male	asian
+TCGA-BR-A4J7	49	male	asian
+TCGA-CD-8525	82	female	asian
+TCGA-CD-8525	82	female	asian
+TCGA-CG-4474	67	female	not reported
+TCGA-CG-4474	67	female	not reported
+TCGA-HU-A4H3	56	female	asian
+TCGA-HU-A4H3	56	female	asian
+TCGA-HU-A4G2	45	male	asian
+TCGA-HU-A4G2	45	male	asian
+TCGA-R5-A7O7	51	male	white
+TCGA-R5-A7O7	51	male	white
+TCGA-CG-4460	66	female	not reported
+TCGA-CG-4460	66	female	not reported
+TCGA-D7-6520	53	male	white
+TCGA-D7-6520	53	male	white
+TCGA-VQ-AA6I	68	male	white
+TCGA-VQ-AA6I	68	male	white
+TCGA-VQ-A91A	67	male	white
+TCGA-VQ-A91A	67	male	white
+TCGA-VQ-AA68	52	female	white
+TCGA-VQ-AA68	52	female	white
+TCGA-BR-8371	62	male	white
+TCGA-BR-8371	62	male	white
+TCGA-D7-A74A	61	female	white
+TCGA-D7-A74A	61	female	white
+TCGA-VQ-AA6B	48	male	white
+TCGA-VQ-AA6B	48	male	white
+TCGA-D7-6518	75	male	white
+TCGA-D7-6518	75	male	white
+TCGA-BR-4253	80	female	white
+TCGA-BR-4253	80	female	white
+TCGA-HU-A4GY	76	female	asian
+TCGA-HU-A4GY	76	female	asian
+TCGA-HU-A4H6	72	female	asian
+TCGA-HU-A4H6	72	female	asian
+TCGA-B7-A5TI	52	male	white
+TCGA-B7-A5TI	52	male	white
+TCGA-HU-8604	82	female	asian
+TCGA-HU-8604	82	female	asian
+TCGA-VQ-A928	49	male	white
+TCGA-VQ-A928	49	male	white
+TCGA-MX-A5UJ	86	female	white
+TCGA-MX-A5UJ	86	female	white
+TCGA-BR-6566	64	female	white
+TCGA-BR-6566	64	female	white
+TCGA-CG-4476	69	male	not reported
+TCGA-CG-4476	69	male	not reported
+TCGA-BR-6852	64	female	white
+TCGA-BR-6852	64	female	white
+TCGA-BR-4368	78	female	white
+TCGA-BR-4368	78	female	white
+TCGA-FP-7829	69	male	white
+TCGA-FP-7829	69	male	white
+TCGA-BR-8058	53	female	white
+TCGA-BR-8058	53	female	white
+TCGA-VQ-AA69	35	male	white
+TCGA-VQ-AA69	35	male	white
+TCGA-RD-A8N1	70	male	white
+TCGA-RD-A8N1	70	male	white
+TCGA-D7-A4YV	69	female	white
+TCGA-D7-A4YV	69	female	white
+TCGA-FP-A4BE	55	male	black or african american
+TCGA-FP-A4BE	55	male	black or african american
+TCGA-CG-5716	86	male	not reported
+TCGA-CG-5716	86	male	not reported
+TCGA-VQ-A91V	58	male	not reported
+TCGA-VQ-A91V	58	male	not reported
+TCGA-VQ-A91X	74	male	white
+TCGA-VQ-A91X	74	male	white
+TCGA-VQ-A923	90	male	white
+TCGA-VQ-A923	90	male	white
+TCGA-EQ-8122	71	female	white
+TCGA-EQ-8122	71	female	white
+TCGA-HU-8245	72	male	asian
+TCGA-HU-8245	72	male	asian
+TCGA-VQ-A8PO	74	male	white
+TCGA-VQ-A8PO	74	male	white
+TCGA-B7-A5TK	51	male	white
+TCGA-B7-A5TK	51	male	white
+TCGA-D7-8578	72	male	white
+TCGA-D7-8578	72	male	white
+TCGA-BR-A4J9	55	male	white
+TCGA-BR-A4J9	55	male	white
+TCGA-BR-4366	87	male	white
+TCGA-BR-4366	87	male	white
+TCGA-VQ-A8PH	62	male	white
+TCGA-VQ-A8PH	62	male	white
+TCGA-D7-6815	70	female	white
+TCGA-D7-6815	70	female	white
+TCGA-IN-A7NT	73	female	white
+TCGA-IN-A7NT	73	female	white
+TCGA-BR-8365	70	female	white
+TCGA-BR-8365	70	female	white
+TCGA-B7-A5TJ	74	male	white
+TCGA-B7-A5TJ	74	male	white
+TCGA-CD-8535	59	male	asian
+TCGA-CD-8535	59	male	asian
+TCGA-VQ-A8PK	58	male	white
+TCGA-VQ-A8PK	58	male	white
+TCGA-VQ-AA6D	52	female	not reported
+TCGA-VQ-AA6D	52	female	not reported
+TCGA-CG-5721	58	male	not reported
+TCGA-CG-5721	58	male	not reported
+TCGA-FP-8099	79	male	white
+TCGA-FP-8099	79	male	white
+TCGA-BR-A4J5	56	male	asian
+TCGA-BR-A4J5	56	male	asian
+TCGA-BR-8372	63	male	white
+TCGA-BR-8372	63	male	white
+TCGA-CD-8529	65	male	asian
+TCGA-CD-8529	65	male	asian
+TCGA-CG-4444	76	male	not reported
+TCGA-CG-4444	76	male	not reported
+TCGA-VQ-A8PT	65	male	white
+TCGA-VQ-A8PT	65	male	white
+TCGA-VQ-A8P3	72	male	white
+TCGA-VQ-A8P3	72	male	white
+TCGA-F1-A72C	68	male	asian
+TCGA-F1-A72C	68	male	asian
+TCGA-HF-7133	'--	female	not reported
+TCGA-HF-7133	'--	female	not reported
+TCGA-KB-A93J	78	male	white
+TCGA-KB-A93J	78	male	white
+TCGA-BR-8373	65	female	white
+TCGA-BR-8373	65	female	white
+TCGA-BR-8687	67	female	white
+TCGA-BR-8687	67	female	white
+TCGA-CG-4437	83	male	not reported
+TCGA-CG-4437	83	male	not reported
+TCGA-BR-8295	60	female	white
+TCGA-BR-8295	60	female	white
+TCGA-BR-8364	42	female	white
+TCGA-BR-8364	42	female	white
+TCGA-HF-7136	'--	male	not reported
+TCGA-HF-7136	'--	male	not reported
+TCGA-CD-8534	41	male	asian
+TCGA-CD-8534	41	male	asian
+TCGA-BR-8363	73	female	white
+TCGA-BR-8363	73	female	white
+TCGA-BR-4363	60	female	white
+TCGA-BR-4363	60	female	white
+TCGA-BR-8366	80	female	white
+TCGA-BR-8366	80	female	white
+TCGA-BR-7715	65	male	white
+TCGA-BR-7715	65	male	white
+TCGA-BR-8384	69	male	white
+TCGA-BR-8384	69	male	white
+TCGA-CD-8526	73	female	asian
+TCGA-CD-8526	73	female	asian
+TCGA-HF-7132	'--	male	not reported
+TCGA-HF-7132	'--	male	not reported
+TCGA-D7-A4YT	56	male	white
+TCGA-D7-A4YT	56	male	white
+TCGA-D7-6521	65	male	white
+TCGA-D7-6521	65	male	white
+TCGA-B7-5818	62	male	white
+TCGA-B7-5818	62	male	white
+TCGA-RD-A8N5	78	male	white
+TCGA-RD-A8N5	78	male	white
+TCGA-HU-A4G3	54	male	asian
+TCGA-HU-A4G3	54	male	asian
+TCGA-BR-6709	57	female	white
+TCGA-BR-6709	57	female	white
+TCGA-VQ-A8DU	63	male	white
+TCGA-VQ-A8DU	63	male	white
+TCGA-D7-6817	63	male	white
+TCGA-D7-6817	63	male	white
+TCGA-R5-A805	71	male	white
+TCGA-R5-A805	71	male	white
+TCGA-BR-A452	57	male	asian
+TCGA-BR-A452	57	male	asian
+TCGA-VQ-A8DL	69	female	white
+TCGA-VQ-A8DL	69	female	white
+TCGA-D7-A6EY	72	female	white
+TCGA-D7-A6EY	72	female	white
+TCGA-CG-4306	90	male	not reported
+TCGA-CG-4306	90	male	not reported
+TCGA-BR-4191	72	male	white
+TCGA-BR-4191	72	male	white
+TCGA-HU-A4GX	70	female	asian
+TCGA-HU-A4GX	70	female	asian
+TCGA-BR-6455	59	male	white
+TCGA-BR-6455	59	male	white
+TCGA-VQ-A927	81	male	white
+TCGA-VQ-A927	81	male	white
+TCGA-SW-A7EA	61	female	white
+TCGA-SW-A7EA	61	female	white
+TCGA-VQ-A8PD	69	male	white
+TCGA-VQ-A8PD	69	male	white
+TCGA-HU-A4GQ	71	male	asian
+TCGA-HU-A4GQ	71	male	asian
+TCGA-B7-A5TN	60	male	white
+TCGA-B7-A5TN	60	male	white
+TCGA-HU-8243	66	male	asian
+TCGA-HU-8243	66	male	asian
+TCGA-BR-A44U	70	male	white
+TCGA-BR-A44U	70	male	white
+TCGA-VQ-A91W	30	male	white
+TCGA-VQ-A91W	30	male	white
+TCGA-CG-4436	57	male	not reported
+TCGA-CG-4436	57	male	not reported
+TCGA-BR-A4CR	70	female	white
+TCGA-BR-A4CR	70	female	white
+TCGA-HU-A4GT	71	female	asian
+TCGA-HU-A4GT	71	female	asian
+TCGA-BR-7197	69	male	white
+TCGA-BR-7197	69	male	white
+TCGA-IN-A6RR	84	male	white
+TCGA-IN-A6RR	84	male	white
+TCGA-BR-4256	80	male	white
+TCGA-BR-4256	80	male	white
+TCGA-HU-A4H2	58	female	asian
+TCGA-HU-A4H2	58	female	asian
+TCGA-R5-A7ZE	66	female	white
+TCGA-R5-A7ZE	66	female	white
+TCGA-BR-8686	69	male	asian
+TCGA-BR-8686	69	male	asian
+TCGA-BR-6802	65	male	white
+TCGA-BR-6802	65	male	white
+TCGA-CG-5720	71	male	not reported
+TCGA-CG-5720	71	male	not reported
+TCGA-BR-8286	49	male	white
+TCGA-BR-8286	49	male	white
+TCGA-VQ-A8E7	59	male	white
+TCGA-VQ-A8E7	59	male	white
+TCGA-CG-4301	75	female	not reported
+TCGA-CG-4301	75	female	not reported
+TCGA-D7-6524	53	male	white
+TCGA-D7-6524	53	male	white
+TCGA-CD-A489	58	male	asian
+TCGA-CD-A489	58	male	asian
+TCGA-VQ-A8DT	43	male	not reported
+TCGA-VQ-A8DT	43	male	not reported
+TCGA-VQ-A91Y	67	male	white
+TCGA-VQ-A91Y	67	male	white
+TCGA-D7-8572	57	male	white
+TCGA-D7-8572	57	male	white
+TCGA-HU-A4G9	67	female	asian
+TCGA-HU-A4G9	67	female	asian
+TCGA-D7-8579	66	female	white
+TCGA-D7-8579	66	female	white
+TCGA-D7-6525	58	male	white
+TCGA-D7-6525	58	male	white
+TCGA-VQ-AA6K	59	male	white
+TCGA-VQ-AA6K	59	male	white
+TCGA-HJ-7597	71	female	white
+TCGA-HJ-7597	71	female	white
+TCGA-BR-7707	69	female	white
+TCGA-BR-7707	69	female	white
+TCGA-BR-8683	75	male	asian
+TCGA-BR-8683	75	male	asian
+TCGA-BR-4201	66	female	white
+TCGA-BR-4201	66	female	white
+TCGA-3M-AB47	51	male	white
+TCGA-3M-AB47	51	male	white
+TCGA-CG-5726	73	male	not reported
+TCGA-CG-5726	73	male	not reported
+TCGA-BR-8361	71	female	white
+TCGA-BR-8361	71	female	white
+TCGA-IN-7806	50	male	white
+TCGA-IN-7806	50	male	white
+TCGA-BR-8289	57	male	white
+TCGA-BR-8289	57	male	white
+TCGA-CG-4455	72	male	not reported
+TCGA-CG-4455	72	male	not reported
+TCGA-BR-A4J4	39	male	asian
+TCGA-BR-A4J4	39	male	asian
+TCGA-CG-5733	83	female	not reported
+TCGA-CG-5733	83	female	not reported
+TCGA-D7-5579	74	male	white
+TCGA-D7-5579	74	male	white
+TCGA-D7-6522	58	male	white
+TCGA-D7-6522	58	male	white
+TCGA-BR-A4QI	70	female	white
+TCGA-BR-A4QI	70	female	white
+TCGA-VQ-A922	70	male	not reported
+TCGA-VQ-A922	70	male	not reported
+TCGA-CG-4440	68	female	not reported
+TCGA-CG-4440	68	female	not reported
+TCGA-CG-4443	68	male	not reported
+TCGA-CG-4443	68	male	not reported
+TCGA-RD-A8N9	63	female	asian
+TCGA-RD-A8N9	63	female	asian
+TCGA-BR-7722	62	male	white
+TCGA-BR-7722	62	male	white
+TCGA-CG-4304	84	male	not reported
+TCGA-CG-4304	84	male	not reported
+TCGA-CD-8532	52	male	asian
+TCGA-CD-8532	52	male	asian
+TCGA-CG-4300	79	male	not reported
+TCGA-CG-4300	79	male	not reported
+TCGA-IN-7808	59	male	white
+TCGA-IN-7808	59	male	white
+TCGA-CG-4442	85	male	not reported
+TCGA-CG-4442	85	male	not reported
+TCGA-ZA-A8F6	71	male	white
+TCGA-ZA-A8F6	71	male	white
+TCGA-VQ-A8PZ	56	female	white
+TCGA-VQ-A8PZ	56	female	white
+TCGA-FP-8210	48	male	asian
+TCGA-FP-8210	48	male	asian
+TCGA-BR-7717	63	male	white
+TCGA-BR-7717	63	male	white
+TCGA-BR-6706	63	male	white
+TCGA-BR-6706	63	male	white
+TCGA-VQ-A8PF	76	male	not reported
+TCGA-VQ-A8PF	76	male	not reported
+TCGA-BR-4255	76	female	white
+TCGA-BR-4255	76	female	white
+TCGA-VQ-A94R	63	male	white
+TCGA-VQ-A94R	63	male	white
+TCGA-R5-A7ZF	65	female	black or african american
+TCGA-R5-A7ZF	65	female	black or african american
+TCGA-HU-A4H8	77	male	asian
+TCGA-HU-A4H8	77	male	asian
+TCGA-BR-A44T	53	female	white
+TCGA-BR-A44T	53	female	white
+TCGA-BR-A4IY	58	male	asian
+TCGA-BR-A4IY	58	male	asian
+TCGA-BR-7901	74	male	white
+TCGA-BR-7901	74	male	white
+TCGA-BR-6563	60	male	white
+TCGA-BR-6563	60	male	white
+TCGA-BR-8360	66	male	white
+TCGA-BR-8360	66	male	white
+TCGA-BR-8380	55	male	white
+TCGA-BR-8380	55	male	white
+TCGA-BR-7704	69	female	white
+TCGA-BR-7704	69	female	white
+TCGA-BR-8285	57	female	white
+TCGA-BR-8285	57	female	white
+TCGA-CD-5804	90	male	asian
+TCGA-CD-5804	90	male	asian
+TCGA-VQ-A94U	70	male	white
+TCGA-VQ-A94U	70	male	white
+TCGA-VQ-A8P2	68	male	white
+TCGA-VQ-A8P2	68	male	white
+TCGA-BR-8589	56	male	white
+TCGA-BR-8589	56	male	white
+TCGA-VQ-A94P	57	male	white
+TCGA-VQ-A94P	57	male	white
+TCGA-VQ-AA6J	75	male	black or african american
+TCGA-VQ-AA6J	75	male	black or african american
+TCGA-D7-6526	67	female	white
+TCGA-D7-6526	67	female	white
+TCGA-BR-4370	74	female	white
+TCGA-BR-4370	74	female	white
+TCGA-D7-5578	80	male	white
+TCGA-D7-5578	80	male	white
+TCGA-VQ-AA6G	68	male	white
+TCGA-VQ-AA6G	68	male	white
+TCGA-HF-A5NB	75	female	not reported
+TCGA-HF-A5NB	75	female	not reported
+TCGA-CD-A48A	57	male	asian
+TCGA-CD-A48A	57	male	asian
+TCGA-D7-8574	72	male	white
+TCGA-D7-8574	72	male	white
+TCGA-BR-8284	72	female	white
+TCGA-BR-8284	72	female	white
+TCGA-VQ-A8DZ	70	male	black or african american
+TCGA-VQ-A8DZ	70	male	black or african american
+TCGA-D7-6818	53	male	white
+TCGA-D7-6818	53	male	white
+TCGA-BR-A4QL	75	female	white
+TCGA-BR-A4QL	75	female	white
+TCGA-RD-A7BS	46	male	white
+TCGA-RD-A7BS	46	male	white
+TCGA-HU-A4GD	56	male	asian
+TCGA-HU-A4GD	56	male	asian
+TCGA-BR-8680	45	male	asian
+TCGA-BR-8680	45	male	asian
+TCGA-VQ-A92D	67	male	white
+TCGA-VQ-A92D	67	male	white
+TCGA-BR-6454	58	male	white
+TCGA-BR-6454	58	male	white
+TCGA-VQ-A8PY	47	female	white
+TCGA-VQ-A8PY	47	female	white
+TCGA-HU-8238	56	male	asian
+TCGA-HU-8238	56	male	asian
+TCGA-BR-4294	65	male	white
+TCGA-BR-4294	65	male	white
+TCGA-BR-8588	55	female	white
+TCGA-BR-8588	55	female	white
+TCGA-BR-6453	54	male	white
+TCGA-BR-6453	54	male	white
+TCGA-BR-8381	51	male	white
+TCGA-BR-8381	51	male	white
+TCGA-BR-6564	46	female	white
+TCGA-BR-6564	46	female	white
+TCGA-BR-A4IU	34	female	asian
+TCGA-BR-A4IU	34	female	asian
+TCGA-BR-8367	55	male	white
+TCGA-BR-8367	55	male	white
+TCGA-BR-6705	68	female	white
+TCGA-BR-6705	68	female	white
+TCGA-BR-7959	59	male	white
+TCGA-BR-7959	59	male	white
+TCGA-BR-4362	74	female	white
+TCGA-BR-4362	74	female	white
+TCGA-D7-A6F0	79	female	white
+TCGA-D7-A6F0	79	female	white
+TCGA-FP-7998	77	male	white
+TCGA-FP-7998	77	male	white
+TCGA-CD-8536	74	male	asian
+TCGA-CD-8536	74	male	asian
+TCGA-R5-A7ZI	44	female	white
+TCGA-R5-A7ZI	44	female	white
+TCGA-RD-A7BW	68	female	white
+TCGA-RD-A7BW	68	female	white
+TCGA-BR-8676	59	male	white
+TCGA-BR-8676	59	male	white
+TCGA-CG-5727	66	male	not reported
+TCGA-CG-5727	66	male	not reported
+TCGA-CD-A487	51	male	asian
+TCGA-CD-A487	51	male	asian
+TCGA-BR-8486	90	female	white
+TCGA-BR-8486	90	female	white
+TCGA-HU-A4GU	73	male	asian
+TCGA-HU-A4GU	73	male	asian
+TCGA-IN-8462	80	male	white
+TCGA-IN-8462	80	male	white
+TCGA-VQ-A8PM	56	male	white
+TCGA-VQ-A8PM	56	male	white
+TCGA-IN-A6RS	76	male	white
+TCGA-IN-A6RS	76	male	white
+TCGA-BR-7723	59	male	white
+TCGA-BR-7723	59	male	white
+TCGA-BR-8487	64	female	white
+TCGA-BR-8487	64	female	white
+TCGA-BR-8362	65	male	white
+TCGA-BR-8362	65	male	white
+TCGA-3M-AB46	70	male	white
+TCGA-3M-AB46	70	male	white
+TCGA-BR-4357	58	male	white
+TCGA-BR-4357	58	male	white
+TCGA-D7-A748	41	female	white
+TCGA-D7-A748	41	female	white
+TCGA-SW-A7EB	45	male	white
+TCGA-SW-A7EB	45	male	white
+TCGA-VQ-A8E2	57	male	asian
+TCGA-VQ-A8E2	57	male	asian
+TCGA-CD-8533	48	male	asian
+TCGA-CD-8533	48	male	asian
+TCGA-BR-4371	71	female	white
+TCGA-BR-4371	71	female	white
+TCGA-F1-6177	90	male	black or african american
+TCGA-F1-6177	90	male	black or african american
+TCGA-HU-A4GP	62	female	asian
+TCGA-HU-A4GP	62	female	asian
+TCGA-VQ-A91Q	61	male	not reported
+TCGA-VQ-A91Q	61	male	not reported
+TCGA-HU-8608	70	male	asian
+TCGA-HU-8608	70	male	asian
+TCGA-CD-A486	68	male	asian
+TCGA-CD-A486	68	male	asian
+TCGA-VQ-A924	69	male	not reported
+TCGA-VQ-A924	69	male	not reported
+TCGA-CD-5799	45	male	asian
+TCGA-CD-5799	45	male	asian
+TCGA-RD-A7C1	82	male	white
+TCGA-RD-A7C1	82	male	white
+TCGA-CG-4465	69	female	not reported
+TCGA-CG-4465	69	female	not reported
+TCGA-BR-7716	62	female	white
+TCGA-BR-7716	62	female	white
+TCGA-CG-4475	76	male	not reported
+TCGA-CG-4475	76	male	not reported
+TCGA-BR-A4IZ	45	female	asian
+TCGA-BR-A4IZ	45	female	asian
+TCGA-BR-8370	64	male	white
+TCGA-BR-8370	64	male	white
+TCGA-VQ-A91Z	67	female	white
+TCGA-VQ-A91Z	67	female	white
+TCGA-VQ-A8PU	72	female	white
+TCGA-VQ-A8PU	72	female	white
+TCGA-D7-6527	62	male	white
+TCGA-D7-6527	62	male	white
+TCGA-VQ-A91N	59	female	not reported
+TCGA-VQ-A91N	59	female	not reported
+TCGA-F1-A448	70	male	white
+TCGA-F1-A448	70	male	white
+TCGA-CD-A4MI	62	male	asian
+TCGA-CD-A4MI	62	male	asian
+TCGA-MX-A666	61	male	white
+TCGA-MX-A666	61	male	white
+TCGA-BR-8080	72	female	white
+TCGA-BR-8080	72	female	white
+TCGA-BR-4367	78	male	white
+TCGA-BR-4367	78	male	white
+TCGA-VQ-A91S	63	male	black or african american
+TCGA-VQ-A91S	63	male	black or african american
+TCGA-HU-A4H5	71	male	asian
+TCGA-HU-A4H5	71	male	asian
+TCGA-IN-A6RN	72	female	white
+TCGA-IN-A6RN	72	female	white
+TCGA-FP-7916	77	male	asian
+TCGA-FP-7916	77	male	asian
+TCGA-IN-8663	68	male	white
+TCGA-IN-8663	68	male	white
+TCGA-BR-8590	62	male	white
+TCGA-BR-8590	62	male	white
+TCGA-CG-5718	78	female	not reported
+TCGA-CG-5718	78	female	not reported
+TCGA-BR-8682	52	male	asian
+TCGA-BR-8682	52	male	asian
+TCGA-VQ-A8DV	48	male	white
+TCGA-VQ-A8DV	48	male	white
+TCGA-HU-A4HD	73	male	asian
+TCGA-HU-A4HD	73	male	asian
+TCGA-IN-A6RL	84	male	white
+TCGA-IN-A6RL	84	male	white
+TCGA-HU-A4GH	75	male	asian
+TCGA-HU-A4GH	75	male	asian
+TCGA-BR-4257	79	female	white
+TCGA-BR-4257	79	female	white
+TCGA-BR-A4PD	72	female	white
+TCGA-BR-A4PD	72	female	white
+TCGA-BR-6565	67	male	white
+TCGA-BR-6565	67	male	white
+TCGA-IN-A6RP	63	male	white
+TCGA-IN-A6RP	63	male	white
+TCGA-VQ-AA6F	57	male	white
+TCGA-VQ-AA6F	57	male	white
+TCGA-D7-A4Z0	60	female	white
+TCGA-D7-A4Z0	60	female	white
+TCGA-IN-AB1V	63	male	white
+TCGA-IN-AB1V	63	male	white
+TCGA-KB-A93H	79	female	asian
+TCGA-KB-A93H	79	female	asian
+TCGA-BR-6707	75	male	white
+TCGA-BR-6707	75	male	white
+TCGA-CD-5801	69	male	asian
+TCGA-CD-5801	69	male	asian
+TCGA-HU-A4GF	69	male	asian
+TCGA-HU-A4GF	69	male	asian
+TCGA-R5-A7ZR	70	female	black or african american
+TCGA-R5-A7ZR	70	female	black or african american
+TCGA-BR-4280	78	female	white
+TCGA-BR-4280	78	female	white
+TCGA-CG-4305	69	male	not reported
+TCGA-CG-4305	69	male	not reported
+TCGA-D7-A6EV	71	female	white
+TCGA-D7-A6EV	71	female	white
+TCGA-BR-4361	66	female	white
+TCGA-BR-4361	66	female	white
+TCGA-BR-6458	57	female	white
+TCGA-BR-6458	57	female	white
+TCGA-BR-8592	63	female	white
+TCGA-BR-8592	63	female	white
+TCGA-FP-8209	49	male	white
+TCGA-FP-8209	49	male	white
+TCGA-BR-8382	67	female	white
+TCGA-BR-8382	67	female	white
+TCGA-BR-6801	70	male	white
+TCGA-BR-6801	70	male	white
+TCGA-VQ-A8PX	51	male	not reported
+TCGA-VQ-A8PX	51	male	not reported
+TCGA-FP-8211	62	male	white
+TCGA-FP-8211	62	male	white
+TCGA-BR-8677	74	female	white
+TCGA-BR-8677	74	female	white
+TCGA-CG-5717	58	male	not reported
+TCGA-CG-5717	58	male	not reported
+TCGA-VQ-A8E3	79	male	white
+TCGA-VQ-A8E3	79	male	white
+TCGA-CG-5719	54	female	not reported
+TCGA-CG-5719	54	female	not reported
+TCGA-BR-8368	84	female	white
+TCGA-BR-8368	84	female	white
+TCGA-D7-8575	75	male	white
+TCGA-D7-8575	75	male	white
+TCGA-BR-8078	70	female	white
+TCGA-BR-8078	70	female	white
+TCGA-VQ-A8E0	68	male	black or african american
+TCGA-VQ-A8E0	68	male	black or african american
+TCGA-CD-A48C	79	female	asian
+TCGA-CD-A48C	79	female	asian
+TCGA-IN-A6RI	45	male	white
+TCGA-IN-A6RI	45	male	white
+TCGA-D7-8576	54	female	white
+TCGA-D7-8576	54	female	white
+TCGA-CG-4438	56	male	not reported
+TCGA-CG-4438	56	male	not reported
+TCGA-HU-8602	58	female	asian
+TCGA-HU-8602	58	female	asian
+TCGA-CD-8531	66	female	asian
+TCGA-CD-8531	66	female	asian
+TCGA-BR-8679	63	female	white
+TCGA-BR-8679	63	female	white
+TCGA-B7-5816	51	female	white
+TCGA-B7-5816	51	female	white
+TCGA-VQ-A8P8	72	female	black or african american
+TCGA-VQ-A8P8	72	female	black or african american
+TCGA-HU-8244	77	female	asian
+TCGA-HU-8244	77	female	asian
+TCGA-BR-6457	69	male	white
+TCGA-BR-6457	69	male	white
+TCGA-D7-A6F2	62	male	white
+TCGA-D7-A6F2	62	male	white
+TCGA-MX-A5UG	78	male	asian
+TCGA-MX-A5UG	78	male	asian
+TCGA-IN-A7NR	64	female	white
+TCGA-IN-A7NR	64	female	white
+TCGA-CD-8530	51	male	asian
+TCGA-CD-8530	51	male	asian
+TCGA-RD-A8N6	78	female	white
+TCGA-RD-A8N6	78	female	white
+TCGA-BR-8369	76	female	white
+TCGA-BR-8369	76	female	white
+TCGA-CG-5724	59	male	not reported
+TCGA-CG-5724	59	male	not reported
+TCGA-HU-A4GN	61	male	asian
+TCGA-HU-A4GN	61	male	asian
+TCGA-VQ-A8PJ	53	male	not reported
+TCGA-VQ-A8PJ	53	male	not reported
+TCGA-BR-8077	58	female	white
+TCGA-BR-8077	58	female	white
+TCGA-BR-7957	50	female	white
+TCGA-BR-7957	50	female	white
+TCGA-VQ-AA64	68	male	white
+TCGA-VQ-AA64	68	male	white
+TCGA-CG-5723	83	male	not reported
+TCGA-CG-5723	83	male	not reported
+TCGA-BR-8591	79	male	white
+TCGA-BR-8591	79	male	white
+TCGA-HU-A4H0	72	male	asian
+TCGA-HU-A4H0	72	male	asian
+TCGA-BR-A4PF	72	male	white
+TCGA-BR-A4PF	72	male	white
+TCGA-BR-4369	75	male	white
+TCGA-BR-4369	75	male	white
+TCGA-FP-A8CX	60	male	white
+TCGA-FP-A8CX	60	male	white
